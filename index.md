@@ -20,7 +20,7 @@ Coming Soon..
 
 Curriculum Vitae
 
-[![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://github.com/AlessandroSaviolo)
+[![GitHub](https://github.com/AlessandroSaviolo/AlessandroSaviolo.github.io/blob/main/assets/images/github.png)](https://github.com/AlessandroSaviolo)
 
 Email: _alessandro.saviolo_ at _hotmail.com_
 
