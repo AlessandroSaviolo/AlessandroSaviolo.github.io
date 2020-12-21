@@ -4,41 +4,22 @@ layout: default
 
 Hi! Thank you for reaching my blog. I am a Software Engineer interested in research-related challenges in the computational field such as machine learning, computer vision and robotics.
 
-<!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
-<!--There should be whitespace between paragraphs.-->
-<!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
-
 # Publications
 
 #### AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning
 
 [Paper](https://github.com/AlessandroSaviolo) [Code](https://github.com/AlessandroSaviolo)
-
 Under review for RA-L IROS 2021. Paper and Code will made our code publicly available upon acceptance of the paper.
-
-# Education
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-#### MSc in Computer Engineering, University of Padova (Italy), 2020.
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-#### BSc in Computer Engineering, University of Padova (Italy), 2018.
-
-#### Master Thesis Research at Robotics and Perception Group, University of Zurich (Switzerland), 2020.
-
-#### Exchange Student at the Department of Electrical and Computer Engineering, National Chao Tung University (Taiwan), 2019.
-
-[Curriculum Vitae](https://github.com/AlessandroSaviolo)
 
 # Contact
 
-alessandro.saviolo at hotmail.com
+Email: _alessandro.saviolo_ at _hotmail.com_
 
-AlessandroSaviolo
+GitHub: [AlessandroSaviolo](https://github.com/AlessandroSaviolo)
 
-alessandro-saviolo
+LinkedIn: [alessandro-saviolo](https://www.linkedin.com/in/alessandro-saviolo/)
+
+
 
 <!--## Header 2-->
 
