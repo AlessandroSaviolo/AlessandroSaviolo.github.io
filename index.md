@@ -27,8 +27,7 @@ Padua, Italy
 
 Follow me on:
  
-&#9; [LinkedIn](https://www.linkedin.com/in/alessandro-saviolo/)
-
-&#9; [GitHub](https://github.com/AlessandroSaviolo)
+[LinkedIn](https://www.linkedin.com/in/alessandro-saviolo/)
+[GitHub](https://github.com/AlessandroSaviolo)
 
 If you have any question about my research, feel free to contact me at the following email: _alessandro.saviolo_ at _hotmail.com_
