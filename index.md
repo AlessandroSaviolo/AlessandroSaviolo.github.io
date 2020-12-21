@@ -12,19 +12,19 @@ Hi! Thank you for reaching my blog. I am a Software Engineer interested in resea
 
 #### AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning
 
-[Paper](https://github.com/AlessandroSaviolo)
+[Paper](https://github.com/AlessandroSaviolo) [Code](https://github.com/AlessandroSaviolo)
 
-[Code](https://github.com/AlessandroSaviolo)
-
-Under review for RA-L IROS 2021.
-
-Paper and Code will made our code publicly available upon acceptance of the paper.
+Under review for RA-L IROS 2021. Paper and Code will made our code publicly available upon acceptance of the paper.
 
 # Education
 
-### MSc in Computer Engineering, University of Padova, 2020.
+#### MSc in Computer Engineering, University of Padova (Italy), 2020.
 
-### BSc in Computer Engineering, University of Padova, 2018.
+#### BSc in Computer Engineering, University of Padova (Italy), 2018.
+
+#### Master Thesis Research at Robotics and Perception Group, University of Zurich (Switzerland), 2020.
+
+#### Exchange Student at the Department of Electrical and Computer Engineering, National Chao Tung University (Taiwan), 2019.
 
 [Curriculum Vitae](https://github.com/AlessandroSaviolo)
 
