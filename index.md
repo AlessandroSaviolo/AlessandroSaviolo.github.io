@@ -20,11 +20,10 @@ Coming Soon..
 
 # Follow Me
 
-![GitHub](./assets/images/github.png)
-
-![GitHub](https://github.com/AlessandroSaviolo/AlessandroSaviolo.github.io/blob/main/assets/images/github.png)
-
-<img src="./assets/images/github.png" width="250">
+<p align="center">
+  [<img src="./assets/images/github.png" width="350" title="hover text">](https://github.com/AlessandroSaviolo)
+  <img src="./assets/images/github.png" width="350" alt="accessibility text">
+</p>
 
 [![GitHub](./assets/images/github.png)](https://github.com/AlessandroSaviolo)
 
