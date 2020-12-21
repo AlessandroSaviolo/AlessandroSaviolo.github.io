@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to another page
+## Curriculum Vitae - Long Version
 
 _yay_
 
