@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[**Projects**](./another-page.html) [Pubblications](./another-page.html) [Curriculum Vitae](./another-page.html)
+[### Projects](./another-page.html) [### Pubblications](./another-page.html) [### Curriculum Vitae](./another-page.html)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -11,6 +11,8 @@ There should be whitespace between paragraphs.
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Pubblications
+
+### AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning
 
 # Projects
 
