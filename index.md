@@ -18,8 +18,10 @@ Under review for RA-L IROS 2021. Paper and Code will made our code publicly avai
 
 # Education
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 #### MSc in Computer Engineering, University of Padova (Italy), 2020.
 
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 #### BSc in Computer Engineering, University of Padova (Italy), 2018.
 
 #### Master Thesis Research at Robotics and Perception Group, University of Zurich (Switzerland), 2020.
@@ -27,6 +29,8 @@ Under review for RA-L IROS 2021. Paper and Code will made our code publicly avai
 #### Exchange Student at the Department of Electrical and Computer Engineering, National Chao Tung University (Taiwan), 2019.
 
 [Curriculum Vitae](https://github.com/AlessandroSaviolo)
+
+# Contact
 
 <!--## Header 2-->
 
