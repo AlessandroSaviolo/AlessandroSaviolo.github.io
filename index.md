@@ -12,7 +12,15 @@ Hi! Thank you for reaching my blog. I am a Software Engineer interested in resea
 
 Under review for RA-L IROS 2021. Paper and Code will made our code publicly available upon acceptance of the paper.
 
+# Blog Posts
+
+Coming Soon..
+
 # Contact
+
+Curriculum Vitae
+
+[![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)](https://github.com/AlessandroSaviolo)
 
 Email: _alessandro.saviolo_ at _hotmail.com_
 
