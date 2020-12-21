@@ -2,24 +2,29 @@
 layout: default
 ---
 
-Hi!
-
-Thank you for reaching my blog. I am a Software Engineer interested in research related challenges in the computational field such as machine learning, computer vision and robotics.
+Hi! Thank you for reaching my blog. I am a Software Engineer interested in research-related challenges in the computational field such as machine learning, computer vision and robotics.
 
 <!--Text can be **bold**, _italic_, or ~~strikethrough~~.-->
 <!--There should be whitespace between paragraphs.-->
 <!--There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.-->
 
-# Pubblications
+# Publications
 
 ### AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning
 
 [Paper](https://github.com/AlessandroSaviolo)
 [Code](https://github.com/AlessandroSaviolo)
 
-# Projects
+Under review for RA-L IROS 2021
+
+# Selected Projects
 
 
+
+# Education
+
+MSc in Computer Engineering, University of Padova, 2020.
+BSc in Computer Engineering, University of Padova, 2018.
 
 # Curriculum Vitae
 
