@@ -8,12 +8,18 @@ Hi! Thank you for reaching my blog. I am a Software Engineer interested in resea
 
 #### AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](./assets/images/autotune3d.png)
 
 [Paper](https://github.com/AlessandroSaviolo) [Code](https://github.com/AlessandroSaviolo)
 
-Under review for RA-L IROS 2021. Paper and Code will made our code publicly available upon acceptance of the paper.
+Under review for RA-L IROS 2021. Paper and Code will made publicly available upon acceptance of the paper.
 
 # Blog Posts
 
 Coming Soon..
+
+# Follow Me
+
+[LinkedIn](https://www.linkedin.com/in/alessandro-saviolo/)
+[GitHub](https://github.com/AlessandroSaviolo)
+[Email](_alessandro.saviolo_@_hotmail.com_)
