@@ -6,7 +6,9 @@ Hi! Thank you for reaching my blog. I am a Software Engineer interested in resea
 
 # Publications
 
-![Branching](./assets/images/autotune3d.png)
+<p align="center">
+  <img src="./assets/images/autotune3d.png" title="AutoTune Framework">
+</p>
 
 #### AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning
 
@@ -26,4 +28,5 @@ Padua, Italy
 Follow me on: 
 [LinkedIn](https://www.linkedin.com/in/alessandro-saviolo/)
 [GitHub](https://github.com/AlessandroSaviolo)
-[Email](_alessandro.saviolo_@_hotmail.com_)
+
+If you have any question about my research, feel free to contact me at the following email: _alessandro.saviolo_@_hotmail.com_
