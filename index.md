@@ -2,8 +2,6 @@
 layout: default
 ---
 
-[### Projects](./another-page.html) [### Pubblications](./another-page.html) [### Curriculum Vitae](./another-page.html)
-
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
@@ -13,6 +11,9 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Pubblications
 
 ### AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning
+
+[Paper](https://github.com/AlessandroSaviolo)
+[Code](https://github.com/AlessandroSaviolo)
 
 # Projects
 
