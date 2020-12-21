@@ -9,6 +9,7 @@ Hi! Thank you for reaching my blog. I am a Software Engineer interested in resea
 #### AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning
 
 [Paper](https://github.com/AlessandroSaviolo) [Code](https://github.com/AlessandroSaviolo)
+
 Under review for RA-L IROS 2021. Paper and Code will made our code publicly available upon acceptance of the paper.
 
 # Contact
@@ -19,15 +20,6 @@ GitHub: [AlessandroSaviolo](https://github.com/AlessandroSaviolo)
 
 LinkedIn: [alessandro-saviolo](https://www.linkedin.com/in/alessandro-saviolo/)
 
-
-
-<!--## Header 2-->
-
-<!--> This is a blockquote following a header.-->
-<!-->-->
-<!--> When something is important enough, you do it even if the odds are not in your favor.-->
-
-<!--### Header 3-->
 
 <!--```js-->
 <!--// Javascript code with syntax highlighting.-->
