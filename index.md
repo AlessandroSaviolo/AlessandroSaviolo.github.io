@@ -1,9 +1,8 @@
 ---
 layout: default
+---
 [Projects](./another-page.html) [Pubblications](./another-page.html) [Curriculum Vitae](./another-page.html)
 ---
-
-
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
