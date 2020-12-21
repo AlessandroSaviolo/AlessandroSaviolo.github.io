@@ -24,7 +24,7 @@ Coming Soon..
 
 ![GitHub](https://github.com/AlessandroSaviolo/AlessandroSaviolo.github.io/blob/main/assets/images/github.png)
 
-[![GitHub](https://github.com/AlessandroSaviolo/AlessandroSaviolo.github.io/blob/main/assets/images/github.png)](https://github.com/AlessandroSaviolo)
+[![GitHub](./assets/images/github.png)](https://github.com/AlessandroSaviolo)
 
 Email: _alessandro.saviolo_ at _hotmail.com_
 
