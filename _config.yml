@@ -1,32 +1,37 @@
-title: About Me
-author:
-  name: Alessandro Saviolo
-  email: alessandro.saviolo@hotmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
+title: Hello, world! I'm David Freeman
+description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+permalink: ':title/'
+baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
 
-show_excerpts: false # set to true to show excerpts on the homepage
+# Author Settings
+author: David Freeman # add your name
+author-img: david-freeman.jpg # add your photo
+about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
+social-twitter: # add your Twitter handle
+social-facebook: # add your Facebook handle
+social-github: artemsheludko # add your Github handle
+social-linkedin: # add your Linkedin handle
+social-email: # add your Email address
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
+# Disqus
+discus-identifier: mr-brown # add your discus identifier
 
-  # generate social links in footer
-  social_links:
-    github:  AlessandroSaviolo
-    linkedin: alessandro-saviolo
+# Tracker
+analytics: # Google Analytics
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
-
-# Build settings
-theme: minima
-
+# Build Settings
+markdown: kramdown
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
