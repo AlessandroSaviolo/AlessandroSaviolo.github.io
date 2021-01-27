@@ -2,22 +2,24 @@
 layout: default
 ---
 
-Hi! Thank you for reaching my blog.\\
-I am a Software Engineer interested in research-related challenges in the computational field such as Machine Learning, Computer Vision and Robotics.\\
+Hi! Thank you for reaching my blog.
+
+I am a Software Engineer interested in research-related challenges in the computational field such as Machine Learning, Computer Vision and Robotics.
+
 This blog is very raw for the moment. I will beautify it very soon!
 
 # Publications
 
 **AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning** \\
-Antonio Loquercio\*, Alessandro Saviolo\*, Davide Scaramuzza. \\
+A. Loquercio\*, A. Saviolo\*, D. Scaramuzza. \\
 <!-- [Paper](https://github.com/AlessandroSaviolo) [Code](https://github.com/AlessandroSaviolo) \\ -->
-*Under review for RA-L IROS 2021. Paper and Code will made publicly available upon acceptance of the paper.* \\
+*Under review for RA-L IROS 2021. Paper and Code will made publicly available upon acceptance of the paper.*
 
 **Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks** \\
-Alessandro Saviolo, Matteo Bonotto, Daniele Evangelista, Marco Imperoli, Emanuele Menegatti, Alberto Pretto. \\
+A. Saviolo, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto. \\
 <!-- [Paper](https://github.com/AlessandroSaviolo) -->
 [Code](https://github.com/AlessandroSaviolo/HBPSegmentation) \\
-*Under review for IAS-16. Paper will be made publicly available soon. Code is already available.* \\
+*Under review for IAS-16. Paper will be made publicly available soon. Code is already available.*
 
 Note: * symbolizes that authors contributed equally.
 
