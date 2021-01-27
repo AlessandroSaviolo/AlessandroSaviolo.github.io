@@ -2,11 +2,11 @@
 layout: default
 ---
 
+<span style="color:red">This blog is very raw for the moment. I will beautify it very soon!</span>.
+
 Hi! Thank you for reaching my blog.
 
 I am a Software Engineer interested in research-related challenges in the computational field such as Machine Learning, Computer Vision and Robotics.
-
-This blog is very raw for the moment. I will beautify it very soon!
 
 # Publications
 
