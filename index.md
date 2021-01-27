@@ -6,25 +6,17 @@ Hi! Thank you for reaching my blog. I am a Software Engineer interested in resea
 
 # Publications
 
-#### - AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning
-
-<p align="center">
-  <img src="./assets/images/autotune3d.png" title="AutoTune Framework">
-</p>
+- **AutoTune: Metropolis-Hastings Sampling for Automatic Controller Tuning**
 
 [Paper](https://github.com/AlessandroSaviolo) [Code](https://github.com/AlessandroSaviolo)
 
-Under review for RA-L IROS 2021. Paper and Code will made publicly available upon acceptance of the paper.
+*Under review for RA-L IROS 2021. Paper and Code will made publicly available upon acceptance of the paper.*
 
-#### - Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks
-
-<p align="center">
-  <img src="./assets/images/hbpsegmentation.png" title="AutoTune Framework">
-</p>
+- **Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks**
 
 [Paper](https://github.com/AlessandroSaviolo) [Code](https://github.com/AlessandroSaviolo/HBPSegmentation)
 
-Under review for IAS-16. Paper will be made publicly available soon. Code is already available.
+*Under review for IAS-16. Paper will be made publicly available soon. Code is already available.*
 
 # Blog Posts
 
@@ -40,3 +32,7 @@ Follow me on:\\
 [GitHub](https://github.com/AlessandroSaviolo)
 
 If you have any question about my research, feel free to contact me at the following email: _alessandro.saviolo_ at _hotmail.com_
+
+<p align="center">
+  <img src="./assets/images/hbpsegmentation.png" title="AutoTune Framework">
+</p>
