@@ -19,7 +19,7 @@ A. Loquercio\*, A. Saviolo\*, D. Scaramuzza. \\
 A. Saviolo, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto. \\
 <!-- [Paper](https://github.com/AlessandroSaviolo) -->
 [Code](https://github.com/AlessandroSaviolo/HBPSegmentation) \\
-*Under review for IAS-16. Paper will be made publicly available soon. Code is already available.*
+*Under review for IAS-16. Paper will be made publicly available soon.*
 
 Note: * symbolizes that authors contributed equally.
 
