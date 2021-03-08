@@ -11,22 +11,25 @@ I am a Software Engineer interested in research-related challenges in the comput
 # Publications
 
 **AutoTune: Controller Tuning for High-Speed Flight** \\
-A. Loquercio\*, A. Saviolo\*, D. Scaramuzza. 
-
-<p align="center">
-  [<img src="./assets/gifs/autotune.gif" title="AutoTune YouTube-Video">](https://www.youtube.com/watch?v=eVjBQfaBETU&ab_channel=AntonioLoquercio)
-</p>
-
+A. Loquercio\*, A. Saviolo\*, D. Scaramuzza.\\
 [Paper](https://github.com/AlessandroSaviolo)
 [Code](https://github.com/uzh-rpg/mh_autotune)
 [Video](https://www.youtube.com/watch?v=eVjBQfaBETU&ab_channel=AntonioLoquercio) \\
 *Under review for IROS 2021.*
+
+<p align="center">
+  <img src="./assets/gifs/autotune.gif" title="AutoTune YouTube-Video" width="50%">
+</p>
 
 **Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks** \\
 A. Saviolo, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto. \\
 [Paper](https://arxiv.org/abs/2102.01460)
 [Code](https://github.com/AlessandroSaviolo/HBPSegmentation) \\
 *Under review for IAS-16.*
+
+<p align="center">
+  <img src="./assets/gifs/hbpsegmentation.gif" title="HBPSegmentation" width="50%">
+</p>
 
 Note: * symbolizes that authors contributed equally.
 
