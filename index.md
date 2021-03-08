@@ -17,9 +17,7 @@ A. Loquercio\*, A. Saviolo\*, D. Scaramuzza.\\
 [Video](https://www.youtube.com/watch?v=eVjBQfaBETU&ab_channel=AntonioLoquercio) \\
 *Under review for IROS 2021.*
 
-<p align="center">
-  <img src="./assets/gifs/autotune.gif" title="AutoTune YouTube-Video" width="50%">
-</p>
+<img src="./assets/gifs/autotune.gif" title="AutoTune YouTube-Video" width="75%">
 
 **Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks** \\
 A. Saviolo, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto. \\
@@ -27,9 +25,9 @@ A. Saviolo, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto. \\
 [Code](https://github.com/AlessandroSaviolo/HBPSegmentation) \\
 *Under review for IAS-16.*
 
-<p align="center">
-  <img src="./assets/gifs/hbpsegmentation.gif" title="HBPSegmentation" width="50%">
-</p>
+<img src="./assets/gifs/hbpsegmentation.gif" title="HBPSegmentation" width="75%">
+
+*(from left to right: input image, ground truth mask, predicted mask)*
 
 Note: * symbolizes that authors contributed equally.
 
