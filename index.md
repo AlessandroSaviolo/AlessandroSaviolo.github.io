@@ -14,7 +14,7 @@ I am a Software Engineer interested in research-related challenges in the comput
 A. Loquercio\*, A. Saviolo\*, D. Scaramuzza. 
 
 <p align="center">
-  <img src="./assets/gifs/autotune.gif" title="AutoTune YouTube-Video">
+  [<img src="./assets/gifs/autotune.gif" title="AutoTune YouTube-Video">](https://www.youtube.com/watch?v=eVjBQfaBETU&ab_channel=AntonioLoquercio)
 </p>
 
 [Paper](https://github.com/AlessandroSaviolo)
