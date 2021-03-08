@@ -11,11 +11,15 @@ I am a Software Engineer interested in research-related challenges in the comput
 # Publications
 
 **AutoTune: Controller Tuning for High-Speed Flight** \\
-A. Loquercio\*, A. Saviolo\*, D. Scaramuzza. \\
+A. Loquercio\*, A. Saviolo\*, D. Scaramuzza. 
+
+<p align="center">
+  <img src="./assets/gifs/autotune.gif" title="AutoTune YouTube-Video">
+</p>
+
 [Paper](https://github.com/AlessandroSaviolo)
 [Code](https://github.com/uzh-rpg/mh_autotune)
 [Video](https://www.youtube.com/watch?v=eVjBQfaBETU&ab_channel=AntonioLoquercio) \\
-[<img src="https://img.youtube.com/vi/eVjBQfaBETU/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=eVjBQfaBETU&ab_channel=AntonioLoquercio)\\
 *Under review for IROS 2021.*
 
 **Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks** \\
