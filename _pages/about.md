@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Guanrui Li（Chinese Characters: 李冠睿), pronounced as "Guan(冠) Ray(睿) Li(李)". You can call me Rui(Ray) for short. 
+Welcome! I am a Ph.D. student at [Agile Robotics and Perception Lab (ARPL)](https://wp.nyu.edu/arpl/) at New York University under the supervision of [Prof. Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno). During my Ph.D., I focus on visual navigation of drone swarms. I am investigating Deep Reinforcement Learning (DRL) techniques to enable fully autonomous vision-based navigation in cluttered real-world environments. Moreover, I am exploring Graph Neural Networks (GNN) to build communication channels for multi-drone systems so that they can learn how to communicate with each other explicitly.
 
-Currently I am a third-year PhD student of the ECE department at Tandon school of Engineering, New York University, supervised by [Prof. Giuseppe Loianno](https://engineering.nyu.edu/faculty/giuseppe-loianno), Principle Investigator of [Agile Robotics and Perception Lab(ARPL)](https://wp.nyu.edu/arpl/). 
-
-I got a master degree of Robotics at the University of Pennsylvania. During my time at UPenn, I participated in research projects supervised by Prof. Vijay Kumar and Prof. Mark Yim at the GRASP Lab. After master graduation, I stayed working as a full time research assistant in the ModLab, supervised by Prof. Mark Yim for half year. Then I moved to Pittsburgh working as a full time research staff for another half year in the AirLab at the Robotics Institute, Carnegie Mellon University, supervised by Prof. Sebastian Scherer.
-
-Before coming to the US, I got my bachelor degree at the Sun Yat-Sen University (SYSU) in China majoring Theoretical and Applied Mechanics.
-
-You can check my publication and some interesting photos in my life on this website. 
+I got a bachelor's and master's degree in Computer Engineering from the University of Padova. During my master's studies, I spent one semester in Taiwan at the National Chao Tung University (NCTU). Moreover, I was awarded a scholarship from the Swiss European Mobility Programme to participate in a 6-months research project at the Robotics and Perception Group in Zurich supervised by Antonio Loquercio and Prof. Davide Scaramuzza. After my master's graduation, I worked for 9-months as a full-time software engineer at Flexsight, a start-up proving cutting-edge artificial vision and autonomous perception solutions.
 
 <table style="width:100%;max-width:800px;border:0px;margin-right:auto;margin-left:auto;">
 <table table="" width="100%" align="center" border="0" cellspacing="0" cellpadding="20"><tbody>
