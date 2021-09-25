@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Guanrui Li"
+title                    : "Alessandro Saviolo"
 title_separator          : "-"
-name                     : &name "Guanrui Li"
+name                     : &name "Alessandro Saviolo"
 description              : &description "personal description"
 url                      : https://lguanrui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
