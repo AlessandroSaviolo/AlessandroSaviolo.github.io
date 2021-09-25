@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Welcome
+
 <div style="text-align: justify">
 I am a Ph.D. student at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab (ARPL)</a>, New York University (NYU), under the supervision of <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Prof. Giuseppe Loianno</a>. During my Ph.D., I focus on visual navigation of drone swarms. Currently, I am investigating Deep Reinforcement Learning techniques to enable fully autonomous vision-based navigation in cluttered real-world environments. Moreover, I am exploring Graph Neural Networks to build communication channels for multi-drone systems so that they can learn how to communicate with each other explicitly.
 </div>
