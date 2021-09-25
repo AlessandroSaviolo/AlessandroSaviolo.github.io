@@ -86,9 +86,9 @@ author:
   location         : "Brooklyn, New York"
   employer         : "ARPL, NYU"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=v_bUoRAAAAAJ"
-  email            : "lguanrui@nyu.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=HaOQ8AoAAAAJ&hl=en&oi=ao"
+  email            : "as16054@nyu.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/AlessandroSaviolo"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0554-304X"
+  linkedin         : "https://www.linkedin.com/in/alessandro-saviolo/"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
