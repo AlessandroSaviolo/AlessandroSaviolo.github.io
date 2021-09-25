@@ -24,6 +24,6 @@ I got a Bachelor's and Master's degree in Computer Engineering from the Universi
 
 <div style="text-align: justify">
 <ul style="list-style-type:square">
-  <li>Aug, 2021. Joined Agile Robotics and Perception Lab!</li>
+  <li><b>Aug, 2021</b>. Joined Agile Robotics and Perception Lab!</li>
 </ul>
 </div>
