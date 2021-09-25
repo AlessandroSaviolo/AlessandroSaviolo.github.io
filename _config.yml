@@ -11,9 +11,9 @@ title                    : "Alessandro Saviolo"
 title_separator          : "-"
 name                     : &name "Alessandro Saviolo"
 description              : &description "personal description"
-url                      : https://lguanrui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://alessandrosaviolo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lguanrui/lguanrui.github.io"
+repository               : "alessandrosaviolo/alessandrosaviolo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Guanrui Li"
+  name             : "Alessandro Saviolo"
   avatar           : "guanrui_profile.png"
-  bio              : "PhD candidate in ECE"
+  bio              : "Ph.D. Candidate"
   location         : "Brooklyn, New York"
-  employer         : "ARPL, ECE, NYU"
+  employer         : "ARPL, NYU"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=v_bUoRAAAAAJ"
   email            : "lguanrui@nyu.edu"
