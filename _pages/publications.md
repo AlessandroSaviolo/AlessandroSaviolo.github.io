@@ -21,7 +21,6 @@ author_profile: true
   <li><b>AutoTune: Controller Tuning for High-Speed Flight</b>, A. Loquercio*, <b>A. Saviolo*</b>, D. Scaramuzza. (\*: equal contribution) [Paper](https://arxiv.org/abs/2103.10698) [Video](https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup) [Code](https://github.com/uzh-rpg/mh_autotune)</li>
 </ul>
 
-
 <!---
 ## Workshop papers:
 -->
