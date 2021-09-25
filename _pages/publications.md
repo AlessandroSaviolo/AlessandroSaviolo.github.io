@@ -13,6 +13,7 @@ author_profile: true
 <ol type="square">
 <li> <b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b>, <b>A. Saviolo</b>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto. <i>16th International Conference on Intelligent Autonomous System (IAS)</i>. </li>
 </ol>
+
 ## Pre-Prints
 
 - <b>AutoTune: Controller Tuning for High-Speed Flight</b>, A. Loquercio*, <b>A. Saviolo*</b>, D. Scaramuzza. (\*: equal contribution)
