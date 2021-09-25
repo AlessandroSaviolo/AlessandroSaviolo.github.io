@@ -3,13 +3,15 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
+<ol type="a">
 <!---
 ## Journal Papers:
 -->
 
 ## Conference Papers
 
-- <b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b>, <b>A. Saviolo</b>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto. <i>16th International Conference on Intelligent Autonomous System (IAS)</i>. 
+<li> <b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b>, <b>A. Saviolo</b>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto. <i>16th International Conference on Intelligent Autonomous System (IAS)</i>. </li>
 
 ## Pre-Prints
 
@@ -19,3 +21,5 @@ author_profile: true
 <!---
 ## Workshop papers:
 -->
+
+</ol>
