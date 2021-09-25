@@ -13,7 +13,8 @@ author_profile: true
 
 ## Pre-Prints
 
-- <b>AutoTune: Controller Tuning for High-Speed Flight</b>, A. Loquercio*, <b>A. Saviolo*</b>, D. Scaramuzza. <i>16th International Conference on Intelligent Autonomous System (IAS)</i>. (\*: equal contribution) [Paper](https://arxiv.org/abs/2103.10698) [Video](https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup) [Code](https://github.com/uzh-rpg/mh_autotune)
+- <b>AutoTune: Controller Tuning for High-Speed Flight</b>, A. Loquercio*, <b>A. Saviolo*</b>, D. Scaramuzza. (\*: equal contribution)
+[Paper](https://arxiv.org/abs/2103.10698) [Video](https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup) [Code](https://github.com/uzh-rpg/mh_autotune)
 
 <!---
 ## Workshop papers:
