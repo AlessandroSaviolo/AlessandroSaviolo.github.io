@@ -12,9 +12,8 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-  - title: "Interesting Stuffs"
-    url: /year-archive/
+#  - title: "Interesting Stuffs"
+#    url: /year-archive/
     
-  - title: "CV"
-    url: /files/cv_guanrui.pdf
-    
+#  - title: "CV"
+#    url: /files/cv_guanrui.pdf
