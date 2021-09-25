@@ -17,3 +17,11 @@ I am a Ph.D. student at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics an
 <div style="text-align: justify">
 I got a Bachelor's and Master's degree in Computer Engineering from the University of Padova. During my Master's studies, I spent one semester in Taiwan at the National Chao Tung University. Moreover, I was awarded a scholarship from the Swiss European Mobility Programme to participate in a 6-months research project at the Robotics and Perception Group in Zurich supervised by Antonio Loquercio and Prof. Davide Scaramuzza. After my Master's graduation, I worked for 9-months as a full-time software engineer at Flexsight, a start-up proving cutting-edge artificial vision and autonomous perception solutions.
 </div>
+
+## News
+
+<div style="text-align: justify">
+  
+- Aug, 2021. Joined Agile Robotics and Perception Lab!
+  
+</div>
