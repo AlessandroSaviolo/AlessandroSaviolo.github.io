@@ -23,11 +23,7 @@ I got a Bachelor's and Master's degree in Computer Engineering from the Universi
 ## News
 
 <div style="text-align: justify">
-  
-- **Aug, 2021**. Joined Agile Robotics and Perception Lab!
-      <ul style="list-style-type:square">
-         <li>US</li>
-         <li>Australia</li>
-         <li>New Zealand</li>
-      </ul>
+<ul style="list-style-type:square">
+  <li>Aug, 2021. Joined Agile Robotics and Perception Lab!</li>
+</ul>
 </div>
