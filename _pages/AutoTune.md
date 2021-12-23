@@ -21,6 +21,17 @@ p.links {
   text-align: center;
 }
 
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 figure {
   margin-top: 72px;
   margin-bottom: 72px;
