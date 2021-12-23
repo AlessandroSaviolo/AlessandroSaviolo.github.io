@@ -98,6 +98,8 @@ figcaption {
 
 ## Experiments
 
+<p class="description"><b>Tracking Minimum-Time Trajectories.</b> AutoTune can be used to tune the controller of a physical platform. To do so, we compute a minimum-time trajectory double Split-S trajectory of 21 waypoints. This trajectory is used to tune the controller in the Flightmare simulator. The resulting controller is then evaluated on a physical platform in a tracking arena of volume 30x30x8m, where the quadrotor achieves speeds over 50 km/h. Figure 5 shows the results of this experiment. AutoTune improves average tracking error by 6% and decreases the maximum displacement from the reference by 12%. In addition, the controller parameters found by our approach give more consistent performance over multiple runs than the baseline.
+
 <figure>
   <img src="/images/autotune_2.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
   <figcaption>Figure 4. Qualitative results in the real world.</figcaption>
@@ -108,9 +110,7 @@ figcaption {
   <figcaption>Figure 5. Quantitative results in the real world. After tuning the parameters in simulation, we evaluate the best configuration found by AutoTune on a physical platform. We compare the performance with the parameters tuned by a human. We perform three runs for each parameter set. We also report the error as a function of time (c) for the best run of each approach.</figcaption>
 </figure>
 
-<p class="description"><b>Tracking Minimum-Time Trajectories.</b> 
-
-AutoTune can be used to tune the controller of a physical platform. To do so, we compute a minimum-time trajectory double Split-S trajectory of 21 waypoints. This trajectory is used to tune the controller in the Flightmare simulator. The resulting controller is then evaluated on a physical platform in a tracking arena of volume $30\times30\times8\SI{}{\meter}$, where the quadrotor achieves speeds over 50 km/h. Figure 5 shows the results of this experiment. AutoTune improves average tracking error by 6% and decreases the maximum displacement from the reference by 12%. In addition, the controller parameters found by our approach give more consistent performance over multiple runs than the baseline.
+<p class="description"><b>AirSim Game of Drones Competition 2019.</b> To validate the importance of tuning parameters for flying faster trajectories, we compare our approach to the top three methods in the 2019 AirSim Game of Drones competition. We compare the methods both on the qualification and final round of the competition. The results of this experiment are summarized in Figure 5. On the qualifier track flying AutoTune achieves a lap-time of 24.05s, while the winner only reaches the goal in 30.11s, with a lap-time 25% longer than ours. Also in the final round, AutoTune outperforms the winner of the competition with a 1.7s margin, completing the track in approximately 5% less time. Interestingly, our approach converges to a policy with a maximum speed not necessarily higher than others. However, we achieve an average velocity higher than baselines, and therefore a faster lap-time. This experiment shows that tuning controller parameters with an automated procedure allow quadrotors to fly faster trajectories.
 
 <figure>
   <div class="row">
