@@ -1,6 +1,6 @@
 ---
-title: "Publications"
-permalink: /publications/
+title: "AutoTune: Controller Tuning for High-Speed Flight"
+permalink: /AutoTune/
 author_profile: true
 ---
 
