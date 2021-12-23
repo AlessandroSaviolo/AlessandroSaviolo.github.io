@@ -102,8 +102,8 @@ figcaption {
   <figcaption>Figure 4. Qualitative results in the real world.</figcaption>
 </figure>
 
-<figure>
-  <img src="/images/autotune_5.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:80%" class="aligncenter">
+<figure class="aligncenter">
+  <img src="/images/autotune_5.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:80%">
   <figcaption>Figure 5. Quantitative results in the real world. After tuning the parameters in simulation, we evaluate the best configuration found by AutoTune on a physical platform. We compare the performance with the parameters tuned by a human. We perform three runs for each parameter set. We also report the error as a function of time (c) for the best run of each approach.</figcaption>
 </figure>
 
