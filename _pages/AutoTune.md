@@ -43,7 +43,7 @@ p.links {
 
 <figure>
   <img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
-  <figcaption>Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h.</figcaption>
+  <figcaption>Figure 1. Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h.</figcaption>
 </figure>
 
 ## Abstract
