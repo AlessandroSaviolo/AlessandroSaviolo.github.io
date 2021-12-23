@@ -106,7 +106,7 @@ figcaption {
 </figure>
 
 <figure>
-  <img src="/images/autotune_5.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
+  <img src="/images/autotune_5.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:80%" class="center">
   <figcaption>Figure 5. Quantitative results in the real world. After tuning the parameters in simulation, we evaluate the best configuration found by AutoTune on a physical platform. We compare the performance with the parameters tuned by a human. We perform three runs for each parameter set. We also report the error as a function of time (c) for the best run of each approach.</figcaption>
 </figure>
 
@@ -125,7 +125,7 @@ figcaption {
 </figure>
 
 <figure>
-  <img src="/images/autotune_7.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:80%">
+  <img src="/images/autotune_7.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:80%" class="center">
   <figcaption>Figure 7. Quantitative results of AutoTune in the Qualification and Final round at AirSim Game of Drones Competition 2019. AutoTune outperforms the winner of the competition in both qualification and final round.</figcaption>
 </figure>
 
