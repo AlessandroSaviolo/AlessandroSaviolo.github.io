@@ -6,19 +6,16 @@ author_profile: true
 
 <head>
 <style>
+.aligncenter {
+  text-align: center;
+}
 p.title {
   text-align: center;
   font-weight: bold;
   font-size: 30px;
 }
-p.authors {
-  text-align: center;
-}
 p.description {
   text-align: justify;
-}
-p.links {
-  text-align: center;
 }
 
 .column {
@@ -47,9 +44,9 @@ figcaption {
 
 <p class="title">AutoTune: Controller Tuning for High-Speed Flight</p>
 
-<p class="authors">Antonio Loquercio*, Alessandro Saviolo*, Davide Scaramuzza</p>
+<p class="aligncenter">Antonio Loquercio*, Alessandro Saviolo*, Davide Scaramuzza</p>
 
-<p class="links"><a href="https://arxiv.org/abs/2103.10698">Paper</a> <a href="https://github.com/uzh-rpg/mh_autotune">Code</a> <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">Video</a></p>
+<p class="aligncenter"><a href="https://arxiv.org/abs/2103.10698">Paper</a> <a href="https://github.com/uzh-rpg/mh_autotune">Code</a> <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">Video</a></p>
 
 <figure>
   <img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
@@ -106,7 +103,7 @@ figcaption {
 </figure>
 
 <figure>
-  <img src="/images/autotune_5.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:80%" class="center">
+  <img src="/images/autotune_5.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:80%" class="aligncenter">
   <figcaption>Figure 5. Quantitative results in the real world. After tuning the parameters in simulation, we evaluate the best configuration found by AutoTune on a physical platform. We compare the performance with the parameters tuned by a human. We perform three runs for each parameter set. We also report the error as a function of time (c) for the best run of each approach.</figcaption>
 </figure>
 
@@ -125,7 +122,7 @@ figcaption {
 </figure>
 
 <figure>
-  <img src="/images/autotune_7.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:80%" class="center">
+  <img src="/images/autotune_7.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:80%" class="aligncenter">
   <figcaption>Figure 7. Quantitative results of AutoTune in the Qualification and Final round at AirSim Game of Drones Competition 2019. AutoTune outperforms the winner of the competition in both qualification and final round.</figcaption>
 </figure>
 
