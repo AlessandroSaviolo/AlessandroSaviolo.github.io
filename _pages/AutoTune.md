@@ -48,7 +48,7 @@ figcaption {
 
 <figure>
   <img src="/images/autotune_1.gif" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
-  <figcaption>Figure 2. Trajectory completion (%) as a function of two parameters of a model-predictive controller. The trajectory completion measures the percentage of trajectory successfully tracked by the controller. The high speed and high angular accelerations required by time-optimal trajectories make the controller extremely sensitive to its parameters.</figcaption>
+  <figcaption>Figure 2. Trajectory completion (%) as a function of two parameters of a model-predictive controller. The trajectory completion measures the percentage of trajectory successfully tracked by the controller. The high speed and high angular accelerations required by time-optimal trajectories make the controller extremely sensitive to its parameters. Visualizations generated with the Loss Landscape Explorer App created by <a href="https://losslandscape.com/">Javier Ideami @ losslandscape.com</a>.</figcaption>
 </figure>
 
 ## Introduction
