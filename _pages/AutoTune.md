@@ -33,7 +33,7 @@ p.links {
 
 ## Paper
 
-<embed src="/files/AutoTune: Controller Tuning for High-Speed Flight.pdf" width="800px" height="2100px" />
+<embed src="/files/autotune.pdf" width="800px" height="2100px" />
 
 ## Video
 
