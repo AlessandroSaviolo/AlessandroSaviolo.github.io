@@ -79,5 +79,3 @@ I got a Bachelor's and Master's degree in Computer Engineering from the Universi
 </ul>
 
 <p><small>*: equal contribution</small></p>
-
-flag
