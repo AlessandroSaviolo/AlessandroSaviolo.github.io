@@ -78,13 +78,11 @@ figcaption {
 ## Challenges
 
 <ul style="list-style-type:square">
-<p class="description">
 
-<li>The objective function (i.e. the relationship between controller parameters and performance) is highly non-convex;</li>
-<li>The tuning process only relies on noisy evaluations of the objective function at adaptively chosen parameters, but not to the function itself or its gradients;</li>
-<li>Different parts of the trajectory, e.g. a sharp turn or a straight-line acceleration, generally require different controller behaviors, hence dynamically changing parameters.</li>
+<li><p class="description">The objective function (i.e. relationship between controller parameters and performance) is highly non-convex;</p></li>
+<li><p class="description">The tuning process only relies on noisy evaluations of the objective function at adaptively chosen parameters, but not to the function itself or its gradients;</p></li>
+<li><p class="description">Different parts of the trajectory, e.g. a sharp turn or a straight-line acceleration, generally require different controller behaviors, hence dynamically changing parameters.</p></li>
 
-</p>
 </ul>
 
 ## Related Work
