@@ -34,8 +34,6 @@ figcaption {
 </style>
 </head>
 
-y
-
 <p class="title">AutoTune: Controller Tuning for High-Speed Flight</p>
 
 <p class="authors">Antonio Loquercio*, Alessandro Saviolo*, Davide Scaramuzza</p>
@@ -89,10 +87,37 @@ y
 
 ## Experiments
 
+<figure>
+  <img src="/images/autotune_2.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
+  <figcaption>Figure 4. Qualitative results in the real world.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/autotune_2.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
+  <figcaption>Figure 5. Quantitative results in the real world. After tuning the parameters in simulation, we evaluate the best configuration found by AutoTune on a physical platform. We compare the performance with the parameters tuned by a human. We perform three runs for each parameter set. We also report the error as a function of time (c) for the best run of each approach.</figcaption>
+</figure>
+
 <p class="description"><b>Tracking Minimum-Time Trajectories.</b> 
 
-<p class="description"><b>AirSim Game of Drones Competition 2019.</b> 
+AutoTune can be used to tune the controller of a physical platform. To do so, we compute a minimum-time trajectory double Split-S trajectory of 21 waypoints. This trajectory is used to tune the controller in the Flightmare simulator. The resulting controller is then evaluated on a physical platform in a tracking arena of volume $30\times30\times8\SI{}{\meter}$, where the quadrotor achieves speeds over 50 km/h. Figure 5 shows the results of this experiment. AutoTune improves average tracking error by 6% and decreases the maximum displacement from the reference by 12%. In addition, the controller parameters found by our approach give more consistent performance over multiple runs than the baseline.
+
+<figure>
+  <div class="row">
+    <div class="column">
+      <img src="/images/autotune_2.png" alt="Qualification round at AirSim Game of Drones Competition 2019." style="width:100%">
+    </div>
+    <div class="column">
+      <img src="/images/autotune_2.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:100%">
+    </div>
+  </div>
+  <figcaption>Figure 6. Qualification (left) and Final (right) round at AirSim Game of Drones Competition 2019.</figcaption>
+</figure>
+
+<figure>
+  <img src="/images/autotune_2.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:100%">
+  <figcaption>Figure 7. Quantitative results of AutoTune in the Qualification and Final round at AirSim Game of Drones Competition 2019. AutoTune outperforms the winner of the competition in both qualification and final round.</figcaption>
+</figure>
 
 ## Discussion and Conclusions
 
-
+This paper shows the importance of an automated tuning procedure of controller parameters to fly high-speed maneuvers. While the effect of tuning is less prominent at low speeds, it acquires a fundamental role when the quadrotor flies a minimum-time trajectory at the limits of handling. In such cases, the relation between the parameters of a finite-horizon controller and the flight performance over the entire trajectory (measured, for example, in terms of trajectory completion or tracking error) is non-convex, not injective, and multi-modal. In this paper, we propose a sampling-based approach specifically tailored to the task of high-speed flight. One limitation of the proposed approach is that it does not consider closed-loop stability during optimization. While prior work proposed a series of techniques to guarantee stability during tuning, such techniques either require a very accurate model of the platform or very conservative parameters exploration strategies. These makes them suited for tasks like hovering or low-speed flight but not to high-speed flight, where model mismatch makes the parameter's optimization landscape very complex. Similar to previous work on agile flight, we have addressed this problem by tuning the controller exclusively in simulation and directly using the tuned controller on a physical platform. However, such a strategy strongly depends on the quality of the simulation environment. Therefore, combining existing techniques for safe tuning with our approach, to either tune from scratch or only finetune the controller on the physical platform, is a very exciting venue for future work.
