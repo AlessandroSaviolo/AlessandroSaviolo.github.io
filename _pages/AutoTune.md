@@ -59,7 +59,7 @@ figcaption {
 
 <p class="description"><b>Related Work.</b> The traditional approach for automatic tuning and adaptive control, generally known as MIT rule, requires to express the desired performance metric, e.g. the average tracking error over the entire maneuver, as a quadratic function of controller parameters, and then optimizes the controller with gradient-based optimization. However, expressing the long-term performance on a high-speed maneuver with respect to the parameters of a receding horizon controller is generally intractable. Indeed, it requires to know a priori the exact model of the quadrotor and the disturbances acting on it during flight, e.g. noisy actuation and aerodynamic effects. Instead of analytically computing it, another line of work proposes to iteratively estimate the optimization function, and use the estimate to find optimal parameters. However, these methods make over-simplifying assumptions on the objective function, e.g. convexity or relative Gaussianity between observations. Such assumptions are generally not suited for controller tuning to high-speed flight, where the function is highly non-convex. To remove any assumption, model-free methods propose to directly search for optimal parameters using sampling. Such methods are however built on heuristics not necessarily suited to high-speed flight and generally require thousands of iterations to converge.</p>
 
-<b>Contribution.</b>
+<b>Contributions.</b>
 
 <ul style="list-style-type:square">
 <p class="description">
@@ -71,12 +71,18 @@ figcaption {
 </p>
 </ul>
 
+<figure>
+  <img src="/images/autotune_2.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
+  <figcaption>Figure 3. We compute a minimum-time trajectory passing through all waypoints. The trajectory is then segmented in parts that require different controller behaviors, and initial parameters for each segment are predicted with a regressor. The parameters are then jointly optimized with M-H sampling over multiple rollouts.</figcaption>
+</figure>
 
+## Method
 
+<p class="description"><b>Metropolis-Hastings Sampling.</b> In this work, we use the Metropolis-Hastings algorithm to find the parameters of a controller flying time-optimal trajectories. We continue the sampling procedure up to when we find a solution satisfying some user-defined performance metrics, e.g. tracking error or trajectory completion. When found, we re-evaluate the solution for four times to account for the randomness of the simulation. We stop the optimization if no solution is found after 200 iterations.</p>
 
+<p class="description"><b>Trajectory Segmentation.</b> Complex high-speed trajectories require different controller behaviors along the track. We split the trajectory into multiple segments according to the height gradient of the reference. In each segment different parameters are assigned to the controller. To account for the strong correlations between segments and keep the optimization global over the trajectory, the controller parameters associated with each segment are updated jointly.</p>
 
-
-
+<p class="description"><b>Sampler Initialization.</b> The Metropolis-Hastings algorithm requires an initial parameter configuration to initialize the sampling. Instead of using a random initialization, we propose to use an informed guess. Specifically, we use a Gradient Boosting regressor with default parameters to predict initial controller parameters for each trajectory segment. The training data for this regressor are controller parameters found to be optimal on 5 training trajectories different in layout from the testing ones. A different regressor is trained for each type of trajectory segment. Five features including information about the reference trajectory are used for prediction: the number of points in the segment, the slope of the line connecting the first and last point of the segment, as well as their height difference, and the mean velocity and acceleration. These features have been selected with a cross-validation procedure.</p>
 
 
 
