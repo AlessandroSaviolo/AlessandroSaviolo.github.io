@@ -98,7 +98,7 @@ figcaption {
 
 ## Experiments
 
-<p class="description"><b>Tracking Minimum-Time Trajectories.</b> AutoTune can be used to tune the controller of a physical platform. To do so, we compute a minimum-time trajectory double Split-S trajectory of 21 waypoints. This trajectory is used to tune the controller in the Flightmare simulator. The resulting controller is then evaluated on a physical platform in a tracking arena of volume 30x30x8m, where the quadrotor achieves speeds over 50 km/h. Figure 5 shows the results of this experiment. AutoTune improves average tracking error by 6 % and decreases the maximum displacement from the reference by 12 %. In addition, the controller parameters found by our approach give more consistent performance over multiple runs than the baseline.</p>
+<p class="description"><b>Tracking Minimum-Time Trajectories.</b> AutoTune can be used to tune the controller of a physical platform. To do so, we compute a minimum-time trajectory double Split-S trajectory of 21 waypoints. This trajectory is used to tune the controller in the Flightmare simulator. The resulting controller is then evaluated on a physical platform in a tracking arena of volume 30x30x8 m, where the quadrotor achieves speeds over 50 km/h. Figure 5 shows the results of this experiment. AutoTune improves average tracking error by 6 % and decreases the maximum displacement from the reference by 12 %. In addition, the controller parameters found by our approach give more consistent performance over multiple runs than the baseline.</p>
 
 <figure>
   <img src="/images/template.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
