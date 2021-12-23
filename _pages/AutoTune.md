@@ -23,7 +23,6 @@ p.links {
 
 figure {
   padding: 72px;
-  margin: auto;
 }
 figcaption {
   text-align: center;
@@ -32,6 +31,8 @@ figcaption {
 }
 </style>
 </head>
+
+flag
 
 <p class="title">AutoTune: Controller Tuning for High-Speed Flight</p>
 
@@ -84,10 +85,12 @@ figcaption {
 
 <p class="description"><b>Sampler Initialization.</b> The Metropolis-Hastings algorithm requires an initial parameter configuration to initialize the sampling. Instead of using a random initialization, we propose to use an informed guess. Specifically, we use a Gradient Boosting regressor with default parameters to predict initial controller parameters for each trajectory segment. The training data for this regressor are controller parameters found to be optimal on 5 training trajectories different in layout from the testing ones. A different regressor is trained for each type of trajectory segment. Five features including information about the reference trajectory are used for prediction: the number of points in the segment, the slope of the line connecting the first and last point of the segment, as well as their height difference, and the mean velocity and acceleration. These features have been selected with a cross-validation procedure.</p>
 
+## Experiments
 
+<p class="description"><b>Tracking Minimum-Time Trajectories.</b> 
 
+<p class="description"><b>AirSim Game of Drones Competition 2019.</b> 
 
-
-
+## Discussion and Conclusions
 
 
