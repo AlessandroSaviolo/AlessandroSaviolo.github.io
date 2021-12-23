@@ -31,7 +31,11 @@ div.description {
 <div class="description"><a href="https://arxiv.org/abs/2102.01460">Paper</a> <a href="https://github.com/AlessandroSaviolo/HBPSegmentation">Code</a></div>
 </li>
 
+</ul>
+
 ## Pre-Prints
+
+<ul style="list-style-type:square">
 
 <li>
 <div>AutoTune: Controller Tuning for High-Speed Flight</div>
