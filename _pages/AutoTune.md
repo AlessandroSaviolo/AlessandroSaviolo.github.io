@@ -73,7 +73,7 @@ figcaption {
 
 <p class="description">Flying high-speed trajectories with a quadrotor requires the platform's controller to be tuned meticulously. The complex relationship between parameters and performance is caused by unavoidable factors such as noisy actuation, imperfect modeling, and external disturbances. The higher the speed, the more complex the relationship between controller parameters and final performance is. This behaviour is empirically shown by Figure 2.</p>
 
-<p class="description"><b>Challenges.</b> Tuning controller parameters to fly high-speed maneuvers is difficult due to three main challenges:</p>
+<b>Challenges.</b>
 
 <ul style="list-style-type:square">
 
@@ -85,7 +85,7 @@ figcaption {
 
 <p class="description"><b>Related Work.</b> The traditional approach for automatic tuning and adaptive control, generally known as MIT rule, requires to express the desired performance metric, e.g. the average tracking error over the entire maneuver, as a quadratic function of controller parameters, and then optimizes the controller with gradient-based optimization. However, expressing the long-term performance on a high-speed maneuver with respect to the parameters of a receding horizon controller is generally intractable. Indeed, it requires to know a priori the exact model of the quadrotor and the disturbances acting on it during flight, e.g. noisy actuation and aerodynamic effects. Instead of analytically computing it, another line of work proposes to iteratively estimate the optimization function, and use the estimate to find optimal parameters. However, these methods make over-simplifying assumptions on the objective function, e.g. convexity or relative Gaussianity between observations. Such assumptions are generally not suited for controller tuning to high-speed flight, where the function is highly non-convex. To remove any assumption, model-free methods propose to directly search for optimal parameters using sampling. Such methods are however built on heuristics not necessarily suited to high-speed flight and generally require thousands of iterations to converge.</p>
 
-<p class="description"><b>Contribution.</b> Overall, our work makes the following contributions:</p>
+<b>Contribution.</b>
 
 <ul style="list-style-type:square">
 <p class="description">
