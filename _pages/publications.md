@@ -9,6 +9,10 @@ author_profile: true
 div {
   text-align: left;
 }
+div.description {
+  text-align: left;
+  opacity: 0.5;
+}
 </style>
 </head>
   
@@ -24,15 +28,15 @@ div {
   <li><b>Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</b></li>
 </ul>
 </div>
-<div color: rgba(0, 0, 0, 0.5)>
+
+<div class="description">
   <u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto
 </div>
-
-flag
 
 <div style="text-align: justify">
   <i>16th International Conference on Intelligent Autonomous System (IAS)</i>
 </div>
+
 <div style="text-align: justify">
   <a href="https://arxiv.org/abs/2102.01460">Paper</a> <a href="https://github.com/AlessandroSaviolo/HBPSegmentation">Code</a>
 </div>
