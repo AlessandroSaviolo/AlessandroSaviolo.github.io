@@ -27,7 +27,7 @@ div.description {
 # Welcome!
 
 <p class="aboutme">
-I am a PhD student at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab (ARPL)</a>, New York University (NYU), under the supervision of <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Prof. Giuseppe Loianno</a>. During my Ph.D., I focus on visual navigation of drone swarms. Currently, I am investigating Deep Reinforcement Learning techniques to enable fully autonomous vision-based navigation in cluttered real-world environments. Moreover, I am exploring Graph Neural Networks to build communication channels for multi-drone systems so that they can learn how to communicate with each other explicitly.
+I am a Ph.D. student at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab (ARPL)</a>, New York University, under the supervision of <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Prof. Giuseppe Loianno</a>. During my Ph.D., I focus on visual navigation of drone swarms. Currently, I am investigating Deep Reinforcement Learning techniques to enable fully autonomous vision-based navigation in cluttered real-world environments. Moreover, I am exploring Graph Neural Networks to build communication channels for multi-drone systems so that they can learn how to communicate with each other explicitly.
 </p>
 
 <hr>
@@ -52,20 +52,11 @@ I got a Bachelor's and Master's degree in Computer Engineering from the Universi
 
 # Publications
 
-### 2022
+<!---
+### Journal Papers
+-->
 
-<ul style="list-style-type:square">
-
-<li>
-<div class="title">AutoTune: Controller Tuning for High-Speed Flight</div>
-<div class="description">A. Loquercio*, <u>A. Saviolo*</u>, D. Scaramuzza</div>
-<div class="description"><i>arXiv preprint arXiv:2103.10698</i></div>
-<div class="description"><a href="https://alessandrosaviolo.github.io/Autotune/">Project Page</a></div>
-</li>
-
-</ul>
-
-### 2021
+### Conference Papers
 
 <ul style="list-style-type:square">
 
@@ -77,5 +68,22 @@ I got a Bachelor's and Master's degree in Computer Engineering from the Universi
 </li>
 
 </ul>
+
+### Pre-Prints
+
+<ul style="list-style-type:square">
+
+<li>
+<div class="title">AutoTune: Controller Tuning for High-Speed Flight</div>
+<div class="description">A. Loquercio*, <u>A. Saviolo*</u>, D. Scaramuzza</div>
+<div class="description"><i>arXiv preprint arXiv:2103.10698 2022</i></div>
+<div class="description"><a href="https://alessandrosaviolo.github.io/Autotune/">Project Page</a></div>
+</li>
+
+</ul>
+
+<!---
+### Workshop papers
+-->
 
 <p><small>*: equal contribution</small></p>
