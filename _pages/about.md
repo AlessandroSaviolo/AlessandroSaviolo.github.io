@@ -52,24 +52,7 @@ I got a Bachelor's and Master's degree in Computer Engineering from the Universi
 
 # Publications
 
-<!---
-### Journal Papers
--->
-
-### Conference Papers
-
-<ul style="list-style-type:square">
-
-<li>
-<div class="title">Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</div>
-<div class="description"><u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto</div>
-<div class="description"><i>Conference on Intelligent Autonomous System (IAS) 2021</i></div>
-<div class="description"><a href="https://alessandrosaviolo.github.io/HumanBodySegmentation/">Project Page</a></div>
-</li>
-
-</ul>
-
-### Pre-Prints
+### 2022
 
 <ul style="list-style-type:square">
 
@@ -82,8 +65,17 @@ I got a Bachelor's and Master's degree in Computer Engineering from the Universi
 
 </ul>
 
-<!---
-### Workshop papers
--->
+### 2021
+
+<ul style="list-style-type:square">
+
+<li>
+<div class="title">Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</div>
+<div class="description"><u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto</div>
+<div class="description"><i>Conference on Intelligent Autonomous System (IAS) 2021</i></div>
+<div class="description"><a href="https://alessandrosaviolo.github.io/HumanBodySegmentation/">Project Page</a></div>
+</li>
+
+</ul>
 
 <p><small>*: equal contribution</small></p>
