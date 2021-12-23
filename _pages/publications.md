@@ -21,7 +21,7 @@ div {
 
 <div>
 <ul style="list-style-type:square">
-  <b>Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</b>
+  <li><b>Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</b></li>
 </ul>
 </div>
 <div color: rgba(0, 0, 0, 0.5)>
@@ -41,7 +41,7 @@ flag
 
 <ul style="list-style-type:square">
 <div>
-  <b>AutoTune: Controller Tuning for High-Speed Flight</b>
+  <li><b>AutoTune: Controller Tuning for High-Speed Flight</b></li>
 </div>
 <div>
   A. Loquercio*, <u>A. Saviolo*</u>, D. Scaramuzza
@@ -50,7 +50,7 @@ flag
   <i>16th International Conference on Intelligent Autonomous System (IAS)</i>
 </div>
 <div style="text-align: justify">
-  <a href="https://arxiv.org/abs/2103.10698">Paper</a> <a href="https://github.com/uzh-rpg/mh_autotune">Code</a> <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">Video</a></li>
+  <a href="https://arxiv.org/abs/2103.10698">Paper</a> <a href="https://github.com/uzh-rpg/mh_autotune">Code</a> <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">Video</a>
 </div>
 </ul>
 
