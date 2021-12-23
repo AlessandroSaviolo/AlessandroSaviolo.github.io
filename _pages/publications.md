@@ -20,14 +20,10 @@ div {
 
 <ul style="list-style-type:square">
 <div>
-<p style="font-size:18px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
-<p style="font-size:17px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
-<p style="font-size:16px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
-<p style="font-size:15px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
-<p style="font-size:14px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
+  <b>Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</b>
 </div>
 
-<div style="font-size: 16px">
+<div>
   <u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto
 </div>
 
