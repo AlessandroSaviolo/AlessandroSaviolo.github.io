@@ -125,7 +125,7 @@ figcaption {
 </figure>
 
 <figure>
-  <img src="/images/autotune_7.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:100%">
+  <img src="/images/autotune_7.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:80%">
   <figcaption>Figure 7. Quantitative results of AutoTune in the Qualification and Final round at AirSim Game of Drones Competition 2019. AutoTune outperforms the winner of the competition in both qualification and final round.</figcaption>
 </figure>
 
