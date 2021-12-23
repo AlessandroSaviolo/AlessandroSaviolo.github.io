@@ -19,15 +19,15 @@ div {
 ## Conference Papers
 
 <ul style="list-style-type:square">
-<div style="text-align: justify">
+<div>
 <p style="font-size:18px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
+<p style="font-size:17px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
 <p style="font-size:16px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
+<p style="font-size:15px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
 <p style="font-size:14px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
-<p style="font-size:12px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
-<p style="font-size:10px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
 </div>
 
-<div style="text-align: justify">
+<div style="font-size: 16px">
   <u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto
 </div>
 
