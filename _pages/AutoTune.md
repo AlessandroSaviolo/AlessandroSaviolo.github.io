@@ -20,6 +20,18 @@ p.description {
 p.links {
   text-align: center;
 }
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 </style>
 </head>
 
