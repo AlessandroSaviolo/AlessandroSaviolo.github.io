@@ -52,7 +52,7 @@ figcaption {
 
 <figure>
   <img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
-  <figcaption>Figure 1. Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h.</figcaption>
+  <figcaption>Figure 1. Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h. We automatically find a controller configuration that can fly such a high-speed maneuver with a novel sampling-based method called AutoTune. To get a better sense of the speed achieved by the quadrotor, please watch the supplementary movie.</figcaption>
 </figure>
 
 ## Abstract
