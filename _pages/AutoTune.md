@@ -22,7 +22,7 @@ p.links {
 }
 
 figure {
-  padding: 4px;
+  padding: 12px;
   margin: auto;
 }
 figcaption {
