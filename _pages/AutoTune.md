@@ -101,7 +101,7 @@ figcaption {
 <p class="description"><b>Tracking Minimum-Time Trajectories.</b> AutoTune can be used to tune the controller of a physical platform. To do so, we compute a minimum-time trajectory double Split-S trajectory of 21 waypoints. This trajectory is used to tune the controller in the Flightmare simulator. The resulting controller is then evaluated on a physical platform in a tracking arena of volume 30x30x8m, where the quadrotor achieves speeds over 50 km/h. Figure 5 shows the results of this experiment. AutoTune improves average tracking error by 6 % and decreases the maximum displacement from the reference by 12 %. In addition, the controller parameters found by our approach give more consistent performance over multiple runs than the baseline.</p>
 
 <figure>
-  <img src="/images/autotune_2.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
+  <img src="/images/template.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
   <figcaption>Figure 4. Qualitative results in the real world.</figcaption>
 </figure>
 
@@ -115,10 +115,10 @@ figcaption {
 <figure>
   <div class="row">
     <div class="column">
-      <img src="/images/autotune_2.png" alt="Qualification round at AirSim Game of Drones Competition 2019." style="width:100%">
+      <img src="/images/template.png" alt="Qualification round at AirSim Game of Drones Competition 2019." style="width:100%">
     </div>
     <div class="column">
-      <img src="/images/autotune_2.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:100%">
+      <img src="/images/template.png" alt="Final round at AirSim Game of Drones Competition 2019." style="width:100%">
     </div>
   </div>
   <figcaption>Figure 6. Qualification (left) and Final (right) round at AirSim Game of Drones Competition 2019.</figcaption>
