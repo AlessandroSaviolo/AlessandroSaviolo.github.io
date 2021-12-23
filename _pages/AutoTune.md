@@ -49,7 +49,7 @@ p.links {
 
 ## Introduction
 
-<p class="description">Flying high-speed trajectories with a quadrotor requires the platform's controller to be meticulously tuned. The complex relationship between parameters and performance is caused by unavoidable factors such as noisy actuation, imperfect modeling, and external disturbances. The higher the speed, the more complex the relationship between controller parameters and final performance is. This behaviour is empirically shown by the figure below.</p>
+<p class="description">Flying high-speed trajectories with a quadrotor requires the platform's controller to be tuned meticulously. The complex relationship between parameters and performance is caused by unavoidable factors such as noisy actuation, imperfect modeling, and external disturbances. The higher the speed, the more complex the relationship between controller parameters and final performance is. This behaviour is empirically shown by the figure below.</p>
 
 <div class="row">
   <div class="column">
