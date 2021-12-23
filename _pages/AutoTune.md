@@ -41,7 +41,10 @@ p.links {
 
 <p class="links"><a href="https://arxiv.org/abs/2103.10698">Paper</a> <a href="https://github.com/uzh-rpg/mh_autotune">Code</a> <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">Video</a></p>
 
-<img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h.">
+<figure>
+  <img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
+  <figcaption>Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h.</figcaption>
+</figure>
 
 ## Abstract
 
