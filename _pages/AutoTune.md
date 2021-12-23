@@ -33,16 +33,13 @@ p.links {
 }
 
 figure {
-  border: 1px #cccccc solid;
   padding: 4px;
   margin: auto;
 }
 figcaption {
-  background-color: black;
-  color: white;
+  text-align: center;
   font-style: italic;
   padding: 2px;
-  text-align: center;
 }
 </style>
 </head>
