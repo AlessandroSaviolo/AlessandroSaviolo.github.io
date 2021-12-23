@@ -14,8 +14,14 @@ author_profile: true
 <div style="text-align: justify">
 <ul style="list-style-type:square">
   <li><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b>
+</ul>
+<ul style="list-style-type:square">
   <b>A. Saviolo</b>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto
+</ul>
+<ul style="list-style-type:square">
   <i>16th International Conference on Intelligent Autonomous System (IAS)</i>
+</ul>
+<ul style="list-style-type:square">
   <a href="https://arxiv.org/abs/2102.01460">Paper</a> <a href="https://github.com/AlessandroSaviolo/HBPSegmentation">Code</a></li>
 </ul>
 </div>
@@ -32,4 +38,4 @@ author_profile: true
 ## Workshop papers:
 -->
 
-<p>(*: equal contribution)</small></p>
+<p><small>(*: equal contribution)</small></p>
