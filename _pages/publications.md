@@ -18,9 +18,11 @@ div {
 
 ## Conference Papers
 
-<ul style="list-style-type:square">
+
 <div>
+<ul style="list-style-type:square">
   <b>Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</b>
+</ul>
 </div>
 <div>
   <u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto
@@ -31,7 +33,6 @@ div {
 <div style="text-align: justify">
   <a href="https://arxiv.org/abs/2102.01460">Paper</a> <a href="https://github.com/AlessandroSaviolo/HBPSegmentation">Code</a>
 </div>
-</ul>
 
 ## Pre-Prints
 
