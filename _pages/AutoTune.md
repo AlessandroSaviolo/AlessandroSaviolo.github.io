@@ -37,6 +37,15 @@ p.links {
 
 Flying high-speed trajectories with a quadrotor requires the platform's controller to be meticulously tuned. The complex relationship between parameters and performance is caused by unavoidable factors such as noisy actuation, imperfect modeling, and external disturbances. The higher the speed, the more complex the relationship between controller parameters and final performance is. This behaviour is empirically shown by the figure below.
 
+<div class="row">
+  <div class="column">
+    <img src="/images/autotune_2.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/autotune_3.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
+  </div>
+</div>
+
 The figure illustrates the trajectory completion (%) as a function of two parameters of a model-predictive controller, where the trajectory completion measures the percentage of trajectory successfully tracked by the controller. The high speed and high angular accelerations required by time-optimal trajectories make the controller extremely sensitive to its parameters.
 
 ## Challenges
