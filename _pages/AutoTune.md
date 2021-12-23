@@ -22,7 +22,8 @@ p.links {
 }
 
 figure {
-  padding: 72px;
+  margin-top: 72px;
+  margin-bottom: 72px;
   display: block;
 }
 figcaption {
@@ -32,6 +33,8 @@ figcaption {
 }
 </style>
 </head>
+
+y
 
 <p class="title">AutoTune: Controller Tuning for High-Speed Flight</p>
 
