@@ -24,9 +24,12 @@ div {
   <b>Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</b>
 </ul>
 </div>
-<div>
+<div color: rgba(0, 0, 0, 0.5)>
   <u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto
 </div>
+
+flag
+
 <div style="text-align: justify">
   <i>16th International Conference on Intelligent Autonomous System (IAS)</i>
 </div>
