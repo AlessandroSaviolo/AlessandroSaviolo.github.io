@@ -4,6 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<head>
+<style>
+div {
+  text-align: left;
+}
+</style>
+</head>
   
 <!---
 ## Journal Papers:
@@ -13,13 +20,15 @@ author_profile: true
 
 <ul style="list-style-type:square">
 <div style="text-align: justify">
-<p style="font-size:30px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
-<p style="font-size:20px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
+<p style="font-size:18px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
+<p style="font-size:16px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
+<p style="font-size:14px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
+<p style="font-size:12px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
 <p style="font-size:10px"><b>Learning to Segment Human Body Parts with Synthetically Trained Deep Convolutional Networks</b></p>
 </div>
 
 <div style="text-align: justify">
-  <b>A. Saviolo</b>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto
+  <u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto
 </div>
 
 <div style="text-align: justify">
@@ -27,7 +36,7 @@ author_profile: true
 </div>
 
 <div style="text-align: justify">
-  <a href="https://arxiv.org/abs/2102.01460">Paper</a> <a href="https://github.com/AlessandroSaviolo/HBPSegmentation">Code</a></li>
+  <a href="https://arxiv.org/abs/2102.01460">Paper</a> <a href="https://github.com/AlessandroSaviolo/HBPSegmentation">Code</a>
 </div>
 </ul>
 
