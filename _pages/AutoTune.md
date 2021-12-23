@@ -73,13 +73,7 @@ figcaption {
 
 <p class="description">Flying high-speed trajectories with a quadrotor requires the platform's controller to be tuned meticulously. The complex relationship between parameters and performance is caused by unavoidable factors such as noisy actuation, imperfect modeling, and external disturbances. The higher the speed, the more complex the relationship between controller parameters and final performance is. This behaviour is empirically shown by Figure 2.</p>
 
-<b>Challenges.</b>
-
-<ul style="list-style-type:square">
-
-<li><p class="description">The objective function (i.e. relationship between controller parameters and performance) is highly non-convex;</p></li>
-<li><p class="description">The tuning process only relies on noisy evaluations of the objective function at adaptively chosen parameters, but not to the function itself or its gradients;</p></li>
-<li><p class="description">Different parts of the trajectory, e.g. a sharp turn or a straight-line acceleration, generally require different controller behaviors, hence dynamically changing parameters.</p></li>
+<p class="description"><b>Challenges.</b> (i) The objective function (i.e. relationship between controller parameters and performance) is highly non-convex; (ii) The tuning process only relies on noisy evaluations of the objective function at adaptively chosen parameters, but not to the function itself or its gradients; (iii) Different parts of the trajectory, e.g. a sharp turn or a straight-line acceleration, generally require different controller behaviors, hence dynamically changing parameters.</p>
 
 </ul>
 
