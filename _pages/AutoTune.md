@@ -45,7 +45,7 @@ figcaption {
 
 <p class="title">AutoTune: Controller Tuning for High-Speed Flight</p>
 
-<p class="aligncenter">Antonio Loquercio*, Alessandro Saviolo*, Davide Scaramuzza</p>
+<p class="aligncenter"><a href="https://antonilo.github.io/">Antonio Loquercio*</a><a href="https://alessandrosaviolo.github.io/">Alessandro Saviolo*</a><a href="http://rpg.ifi.uzh.ch/people_scaramuzza.html">Davide Scaramuzza</a></p>
 
 <p class="aligncenter"><a href="https://arxiv.org/abs/2103.10698">Paper</a> <a href="https://github.com/uzh-rpg/mh_autotune">Code</a> <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">Video</a></p>
 
