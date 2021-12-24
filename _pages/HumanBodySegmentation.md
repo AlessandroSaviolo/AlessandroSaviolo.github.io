@@ -104,7 +104,7 @@ figcaption {
 
 ## Acknowledgment
 
-<p class="description">This work was part of <a href="http://www.flexsight.eu/e-cast-project/">E-Cast</a>, a joint project between <a href="https://www.flexsight.eu/">FlexSight</a> and <a href="https://www.playcast.it/">PlayCast</a> to offer the best alternative to traditional plaster. This project has received funding from the DIGI-B-CUBE voucher framework which has been supported by the European Union’s Horizon 2020 research and innovation program under grant agreement No 824920. Part of this work has been supported by MIUR (Italian Minister for Education) under the initiative “Departments of Excellence” (Law 232/2016).</p>
+<p class="description">This work was part of <a href="http://www.flexsight.eu/e-cast-project/">E-Cast</a>, a joint project between <a href="https://www.flexsight.eu/">FlexSight</a> and <a href="https://www.playcast.it/">PlayCast</a> with the goal to offer the best alternative to traditional plaster. This project has received funding from the DIGI-B-CUBE voucher framework which has been supported by the European Union’s Horizon 2020 research and innovation program under grant agreement No 824920. Part of this work has been supported by MIUR (Italian Minister for Education) under the initiative “Departments of Excellence” (Law 232/2016).</p>
 
 <figure>
   <div class="row">
