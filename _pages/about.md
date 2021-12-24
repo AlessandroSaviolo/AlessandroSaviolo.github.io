@@ -26,20 +26,9 @@ div.description {
 
 # Welcome!
 
-<p class="aboutme">
-I am a Ph.D. student at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab (ARPL)</a>, New York University, under the supervision of <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Prof. Giuseppe Loianno</a>. During my Ph.D., I focus on data-driven techniques applied to quadrotors' autonomous navigation and system dynamics modeling.</p>
+<p class="aboutme">I am a Ph.D. student at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab (ARPL)</a>, New York University, under the supervision of <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Prof. Giuseppe Loianno</a>. I got a Bachelor's and Master's degree in Computer Engineering from the University of Padova. During my Master's studies, I spent one semester in Taiwan at the National Chao Tung University. Moreover, I was awarded a scholarship from the Swiss European Mobility Programme to participate in a 6-months research project at the Robotics and Perception Group in Zurich supervised by Antonio Loquercio and Prof. Davide Scaramuzza. After my Master's graduation, I worked for 9-months as a full-time software engineer at Flexsight, a start-up proving cutting-edge artificial vision and autonomous perception solutions.</p>
 
-<hr>
-
-# Education
-
-<p class="aboutme">
-I got a Bachelor's and Master's degree in Computer Engineering from the University of Padova. During my Master's studies, I spent one semester in Taiwan at the National Chao Tung University. Moreover, I was awarded a scholarship from the Swiss European Mobility Programme to participate in a 6-months research project at the Robotics and Perception Group in Zurich supervised by Antonio Loquercio and Prof. Davide Scaramuzza. After my Master's graduation, I worked for 9-months as a full-time software engineer at Flexsight, a start-up proving cutting-edge artificial vision and autonomous perception solutions.
-</p>
-
-<hr>
-
-# News
+## News
 
 <p class="aboutme">
 <ul style="list-style-type:square">
@@ -47,9 +36,7 @@ I got a Bachelor's and Master's degree in Computer Engineering from the Universi
 </ul>
 </p>
 
-<hr>
-
-# Publications
+## Publications
 
 ### 2022
 
