@@ -95,7 +95,7 @@ figcaption {
 
 <figure>
   <img src="/images/humanbodysegmentation_5.png" alt="Multi-stereo 3D Reconstruction." style="width:100%">
-  <figcaption>Figure 4. Evaluation of the proposed segmentation method in the 3D reconstruction's context. [Top row]: One of the 16 input images used for multi view stereo reconstruction (left) with the associated mask (right) computed with the proposed segmentation approach. [Middle row]: Reconstructed point cloud (left) and mesh (right) without masking. [Bottom row]: Reconstructed point cloud (left) and mesh (right) with arm masking.</figcaption>
+  <figcaption>Figure 5. Evaluation of the proposed segmentation method in the 3D reconstruction's context. [Top row]: One of the 16 input images used for multi view stereo reconstruction (left) with the associated mask (right) computed with the proposed segmentation approach. [Middle row]: Reconstructed point cloud (left) and mesh (right) without masking. [Bottom row]: Reconstructed point cloud (left) and mesh (right) with arm masking.</figcaption>
 </figure>
 
 ## Discussion and Conclusions
