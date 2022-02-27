@@ -32,7 +32,8 @@ div.description {
 
 <p class="aboutme">
 <ul style="list-style-type:square">
-  <li><b>Aug, 2021</b>. Joined Agile Robotics and Perception Lab!</li>
+  <li><b>Jan, 2022</b>. One paper accepted at RAL-ICRA 2022</li>
+  <li><b>Aug, 2021</b>. Joined Agile Robotics and Perception Lab</li>
 </ul>
 </p>
 
