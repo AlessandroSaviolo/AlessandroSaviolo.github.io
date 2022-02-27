@@ -45,7 +45,7 @@ div.description {
 
 <li>
 <div class="title">AutoTune: Controller Tuning for High-Speed Flight</div>
-<div class="description">A. Loquercio*, <u>A. Saviolo*</u>, D. Scaramuzza</div>
+<div class="description">A. Loquercio*, <u>A. Saviolo</u>*, D. Scaramuzza</div>
 <div class="description"><i>IEEE Robotics and Automation Letters</i></div>
 <div class="description"><i>IEEE International Conference on Robotics and Automation</i></div>
 <div class="description"><a href="https://alessandrosaviolo.github.io/Autotune/">Project Page</a></div>
