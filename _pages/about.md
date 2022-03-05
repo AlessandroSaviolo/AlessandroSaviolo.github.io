@@ -42,6 +42,13 @@ div.description {
 ### 2022
 
 <ul style="list-style-type:square">
+  
+<li>
+<div class="title">Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking</div>
+<div class="description"><u>A. Saviolo</u>, G. Li, G. Loianno</div>
+<div class="description"><i>IEEE Robotics and Automation Letters</i> (submitted)</div>
+<div class="description"><i>IEEE International Conference on Intelligent Robots and Systems</i> (submitted)</div>
+</li>
 
 <li>
 <div class="title">AutoTune: Controller Tuning for High-Speed Flight</div>
