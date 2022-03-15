@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /Autotune/
+permalink: /PI-TCN/
 author_profile: true
 ---
 
@@ -43,7 +43,7 @@ figcaption {
 </style>
 </head>
 
-<p class="title">AutoTune: Controller Tuning for High-Speed Flight</p>
+<p class="title">Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking</p>
 
 <p class="aligncenter"><a href="https://alessandrosaviolo.github.io/">Alessandro Saviolo</a>, <a href="https://lguanrui.github.io/">Guanrui Li</a>, <a href="https://scholar.google.it/citations?user=W8f0d6oAAAAJ&hl=en">Giuseppe Loianno</a></p>
 
