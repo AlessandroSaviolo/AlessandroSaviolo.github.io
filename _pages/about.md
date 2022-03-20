@@ -21,6 +21,14 @@ div.description {
   text-align: left;
   opacity: 0.8;
 }
+@counter-style repeating-emoji {
+  system: cyclic;
+  symbols: "\1F431" "\1F436" "\1F984"; // unicode code point
+  suffix: " ";
+}
+.repeating-counter-rule {
+  list-style-type: repeating-emoji;
+}
 </style>
 </head>
 
