@@ -25,7 +25,7 @@ div.description {
 
 <p class="advisedstudents">
 <ul style="list-style-type:square">
-  <li style="line-height: 75%"><span style="float:left;"><b>Joseph Peltroche</b></span><span style="float:right;">Dec 2021 - Ongoing</span></li>
+  <li style="line-height: 50%"><span style="float:left;"><b>Joseph Peltroche</b></span><span style="float:right;">Dec 2021 - Ongoing</span></li>
   <li style="list-style: none;">Learning-based Unscented Kalman Filter</li>
   <li><b>Varun Menon (Mar 2022 - Ongoing)</b><br>
   Deep Reinforcement Learning for Autonomous Navigation</li>
