@@ -7,14 +7,28 @@ redirect_from:
   - /advised-students
 ---
 
+<head>
+<style>
+p.advisedstudents {
+  text-align: justify;
+}
+div.title {
+  text-align: left;
+  font-weight: bold;
+}
+div.description {
+  text-align: left;
+  opacity: 0.8;
+}
+</style>
+</head>
 
 ## Advised Students
 
-<p class="aboutme">
+<p class="advisedstudents">
 <ul style="list-style-type:square">
-  <li><span style="float:left"><b>Joseph Peltroche</b></span><span style="float:right">Dec 2021 - Ongoing</span></li>
-  <li><b>Joseph Peltroche (Dec 2021 - Ongoing)</b><br>
-  Learning-based Unscented Kalman Filter</li>
+  <li><span style="float:left;"><b>Joseph Peltroche</b></span><span style="float:right;">Dec 2021 - Ongoing</span></li>
+  <li style="list-style: none;">Learning-based Unscented Kalman Filter</li>
   <li><b>Varun Menon (Mar 2022 - Ongoing)</b><br>
   Deep Reinforcement Learning for Autonomous Navigation</li>
   <li><b>Yash Patel (Mar 2022 - Ongoing)</b><br>
