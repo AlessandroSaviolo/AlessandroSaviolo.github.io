@@ -76,3 +76,11 @@ div.description {
 </ul>
 
 <p><small>*: equal contribution</small></p>
+
+## Advised Students
+
+<p class="aboutme">
+<ul style="list-style-type:triangle">
+  <li>Joseph Peltroche (Dec 2021 - Ongoing): Learning-based Unscented Kalman Filter</li>
+</ul>
+</p>
