@@ -1,11 +1,22 @@
 ---
 permalink: /
+<!-- layout: archive -->
+
 title: ""
 excerpt: "Publications"
 author_profile: true
 redirect_from: 
   - /publications/
   - /publications.html
+---
+
+---
+<!-- layout: archive -->
+title: "Alessandro Saviolo"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /publications
 ---
 
 <head>
