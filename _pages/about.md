@@ -39,6 +39,8 @@ div.description {
 ## Latest News
 
 ✈️ Will participate in person at ICRA conference
+🦾 One <a href="https://alessandrosaviolo.github.io/Autotune/">paper</a> accepted at RAL-ICRA 2022
+Joined Agile Robotics and Perception Lab at New York University
 
 <p class="aboutme">
 <ul style="list-style-type:square">
