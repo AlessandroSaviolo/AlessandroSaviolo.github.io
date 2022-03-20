@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Alessandro Saviolo"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -23,9 +23,7 @@ div.description {
 </style>
 </head>
 
-# Publications
-
-### 2022
+## 2022
 
 <ul style="list-style-type:square">
   
@@ -47,7 +45,7 @@ div.description {
   
 </ul>
 
-### 2021
+## 2021
 
 <ul style="list-style-type:square">
 
