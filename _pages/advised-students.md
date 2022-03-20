@@ -26,7 +26,7 @@ div.description {
 
 ## Application
 
-<p class="advisedstudents">If you are a Master's Student looking for a semester project with me, please check the projects available <a href="https://wp.nyu.edu/arpl/master-projects/">here</a> and follow the instructions to apply.</p>
+<p class="advisedstudents">If you are a Master's Student looking to work on a semester project with me, please check the projects available <a href="https://wp.nyu.edu/arpl/master-projects/">here</a> and follow the instructions to apply.</p>
 
 ## Archive
 
