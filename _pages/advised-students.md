@@ -29,15 +29,19 @@ div.description {
 
 ## Advised Students
 
-<p class="advisedstudents">
-<ul style="list-style-type:square">
+<p class="advisedstudents"><ul style="list-style-type:square">
   <li style="line-height: 50%;"><span style="float:left;"><b>Varun Menon</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
-  <li style="line-height: 200%; list-style: none;">Deep Reinforcement Learning for Autonomous Navigation</li>
+  <li style="list-style: none;">Deep Reinforcement Learning for Autonomous Navigation</li>
+</ul></p>
+<p class="advisedstudents"><ul style="list-style-type:square">
   <li style="line-height: 50%;"><span style="float:left;"><b>Yash Patel</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
-  <li style="line-height: 200%; list-style: none;">Neural Radiance Fields for Autonomous Navigation</li>
+  <li style="list-style: none;">Neural Radiance Fields for Autonomous Navigation</li>
+</ul></p>
+<p class="advisedstudents"><ul style="list-style-type:square">
   <li style="line-height: 50%;"><span style="float:left;"><b>Roshan Balakrishnan</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
-  <li style="line-height: 200%; list-style: none;">Automatic Charging for Continous Flight</li>  
+  <li style="list-style: none;">Automatic Charging for Continous Flight</li>  
+</ul></p>
+<p class="advisedstudents"><ul style="list-style-type:square">
   <li style="line-height: 50%;"><span style="float:left;"><b>Joseph Peltroche</b></span><span style="float:right;">Dec 2021 - Ongoing</span></li>
-  <li style="line-height: 200%; list-style: none;">Learning-based Unscented Kalman Filter</li>
-</ul>
-</p>
+  <li style="list-style: none;">Learning-based Unscented Kalman Filter</li>
+</ul></p>
