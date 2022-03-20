@@ -38,6 +38,8 @@ div.description {
 
 ## Latest News
 
+:grinning: Will participate in person at ICRA conference
+
 <p class="aboutme">
 <ul style="list-style-type:square">
   <li><b>May, 2022</b>. Will participate in person at ICRA conference</li>
