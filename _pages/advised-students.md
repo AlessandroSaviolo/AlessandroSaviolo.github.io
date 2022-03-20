@@ -23,7 +23,6 @@ div.description {
 </style>
 </head>
 
-
 ## Application
 
 <p class="advisedstudents">If you are a student looking to work on a semester project with me, please check the projects available <a href="https://wp.nyu.edu/arpl/master-projects/">here</a> and follow the instructions to apply.</p>
