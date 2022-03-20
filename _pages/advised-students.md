@@ -25,6 +25,8 @@ div.description {
 
 <p class="advisedstudents">If you are a Master's Student and you are looking for a semester project, please check the projects available <a href="https://wp.nyu.edu/arpl/master-projects/">here</a> and follow the instructions to apply.</p>
 
+<hr>
+
 <p class="advisedstudents">
 <ul style="list-style-type:square">
   <li style="line-height: 50%"><span style="float:left;"><b>Joseph Peltroche</b></span><span style="float:right;">Dec 2021 - Ongoing</span></li>
