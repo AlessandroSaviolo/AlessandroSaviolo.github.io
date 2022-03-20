@@ -81,7 +81,7 @@ div.description {
 
 <p class="aboutme">
 <ul style="list-style-type:square">
-  <li><span class="right"><b>Joseph Peltroche</b></span><span class="left">Dec 2021 - Ongoing</span><br>
+  <li><span style="float:left"><b>Joseph Peltroche</b></span><span style="float:right">Dec 2021 - Ongoing</span><br>
   Learning-based Unscented Kalman Filter</li>
   <li><b>Joseph Peltroche (Dec 2021 - Ongoing)</b><br>
   Learning-based Unscented Kalman Filter</li>
