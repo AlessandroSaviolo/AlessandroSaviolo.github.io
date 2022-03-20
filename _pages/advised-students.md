@@ -23,8 +23,6 @@ div.description {
 </style>
 </head>
 
-## Advised Students
-
 <p class="advisedstudents">
 <ul style="list-style-type:square">
   <li style="line-height: 100%"><span style="float:left;"><b>Joseph Peltroche</b></span><span style="float:right;">Dec 2021 - Ongoing</span></li>
