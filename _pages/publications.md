@@ -10,7 +10,7 @@ redirect_from:
 
 <head>
 <style>
-p.aboutme {
+p.publications {
   text-align: justify;
 }
 div.title {
