@@ -81,8 +81,7 @@ div.description {
 
 <p class="aboutme">
 <ul style="list-style-type:square">
-  <li><span style="float:left"><b>Joseph Peltroche</b></span><span style="float:right">Dec 2021 - Ongoing</span><br>
-  Learning-based Unscented Kalman Filter</li>
+  <li><span style="float:left"><b>Joseph Peltroche</b></span><span style="float:right">Dec 2021 - Ongoing</span></li>
   <li><b>Joseph Peltroche (Dec 2021 - Ongoing)</b><br>
   Learning-based Unscented Kalman Filter</li>
   <li><b>Varun Menon (Mar 2022 - Ongoing)</b><br>
