@@ -38,7 +38,7 @@ div.description {
 
 ## Latest News
 
-:grinning: Will participate in person at ICRA conference
+✈️ Will participate in person at ICRA conference
 
 <p class="aboutme">
 <ul style="list-style-type:square">
