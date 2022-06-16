@@ -38,10 +38,10 @@ div.description {
   <li style="list-style: none;">Neural Radiance Fields for Autonomous Navigation</li>
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Roshan Balakrishnan</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
-  <li style="list-style: none;">Automatic Charging for Continous Flight</li>  
+  <li style="line-height: 50%;"><span style="float:left;"><b>Dan Zhao</b></span><span style="float:right;">Jun 2022 - Ongoing</span></li>
+  <li style="list-style: none;">Neural Radiance Fields for Autonomous Navigation</li>
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Joseph Peltroche</b></span><span style="float:right;">Dec 2021 - Ongoing</span></li>
-  <li style="list-style: none;">Learning-based Unscented Kalman Filter</li>
+  <li style="line-height: 50%;"><span style="float:left;"><b>Roshan Balakrishnan</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
+  <li style="list-style: none;">Automatic Charging for Continous Flight</li>  
 </ul></p>
