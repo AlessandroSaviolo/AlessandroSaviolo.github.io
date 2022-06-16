@@ -26,7 +26,14 @@ div.description {
 ## 2022
 
 <ul style="list-style-type:square">
-  
+
+<li>
+<div class="title">Active Learning of Quadrotor Discrete Dynamics for Uncertainty-Aware Model Predictive Control</div>
+<div class="description"><u>A. Saviolo</u>, J. Frey, A. Rathod, M. Diehl, G. Loianno</div>
+<div class="description"><i>Conference on Robot Learning (CoRL)</i> (submitted)</div>
+<div class="description"><a href="https://alessandrosaviolo.github.io/ActiveLearningDynamics/">Project Page</a></div>
+</li>
+
 <li>
 <div class="title">Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking</div>
 <div class="description"><u>A. Saviolo</u>, G. Li, G. Loianno</div>
