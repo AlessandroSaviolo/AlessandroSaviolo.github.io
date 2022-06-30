@@ -81,3 +81,15 @@ figcaption {
 
 </p>
 </ul>
+
+<figure>
+  <img src="/images/autotune_3.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
+  <figcaption>Figure 3. We compute a minimum-time trajectory passing through all waypoints. The trajectory is then segmented in parts that require different controller behaviors, and initial parameters for each segment are predicted with a regressor. The parameters are then jointly optimized with M-H sampling over multiple rollouts.</figcaption>
+</figure>
+
+## Method
+
+<p class="description"><b>Model Learning.</b> In this work, we model the quadrotor's system dynamics using a physics-inspired temporal convolutional network and leverage past flight states and control inputs to predict the quadrotor's full dynamic state. The proposed network, illustrated in Figure 3, consists of two sub-networks, a temporal convolutional network (TCN) and a multi-layer perceptron (MLP). The TCN extracts time-correlated features from a sequence of past flight states and control inputs and outputs a compact hidden-state vector. Such hidden state is passed in input to the MLP which predicts the quadrotor's full system dynamics. Such encoder-decoder architecture fully leverages the qualities of the TCN and MLP models. TCNs are sparse networks defined by dilated (causal) convolutional layers, which allow to process long history sequences in parallel while encoding the temporal structure of the input time series in their output feature vector. Conversely, MLPs are dense networks, which makes them better suited for making predictions from a compact hidden state representation.</p>
+
+<p class="description"><b>Physics-Inspired Loss.</b> Learning the dynamics purely from data poses the challenge to make the network generalizable outside the training distribution. However, it is necessary to concurrently guarantee that the network matches physical principles. Motivated by this observation, we embed physics constraints in the training process by including the physics laws in the loss function.</p>
+
