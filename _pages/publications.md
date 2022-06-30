@@ -41,9 +41,13 @@ div.description {
 <div class="description"><u>A. Saviolo</u>, G. Li, G. Loianno</div>
 <div class="description"><i>IEEE Robotics and Automation Letters (RA-L)</i></div>
 <div class="description"><i>IEEE International Conference on Intelligent Robots and Systems (IROS)</i></div>
-<div class="description"><a href="https://alessandrosaviolo.github.io/PI-TCN/">Project Page</a></div>
+<div class="description">
+  <a href="https://alessandrosaviolo.github.io/PI-TCN/">Project</a>
+  <a href="https://arxiv.org/abs/2206.03305">Paper</a> 
+  <a href="https://youtu.be/O3fkwmNwL9E">Video</a>
+</div>
 </li>
-
+  
 <li>
 <div class="title">AutoTune: Controller Tuning for High-Speed Flight</div>
 <div class="description">A. Loquercio*, <u>A. Saviolo</u>*, D. Scaramuzza</div>
@@ -67,7 +71,7 @@ div.description {
 <div class="title">Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</div>
 <div class="description"><u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto</div>
 <div class="description"><i>Conference on Intelligent Autonomous System (IAS)</i></div>
-<div class="description"><a href="https://alessandrosaviolo.github.io/HumanBodySegmentation/">Project Page</a></div>
+<div class="description"><a href="https://alessandrosaviolo.github.io/HumanBodySegmentation/">Project</a></div>
 </li>
 
 </ul>
