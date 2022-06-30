@@ -52,6 +52,15 @@ figcaption {
   <a href="https://youtu.be/O3fkwmNwL9E">Video</a>
 </p>
 
+```
+@ARTICLE{Saviolo2022PITCN,
+  author  = {Saviolo, Alessandro and Li, Guanrui and Loianno, Giuseppe},
+  title   = {Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking},
+  journal = {arXiv preprint arXiv:2206.03305},
+  year    = {2022}
+}
+```
+
 <figure>
 <img src="/images/pitcn_1.jpg" alt="Long-exposure photo showing multiple laps over Lemniscate trajectory when using the nominal (NOM) and the proposed (PI-TCN) dynamics." style="width:100%">
 <figcaption>Figure 1. Long-exposure photo showing multiple laps over Lemniscate trajectory when using the nominal (NOM) and the proposed (PI-TCN) dynamics. The reference trajectory (white) is approximately projected on the image based on real-world experiments for illustrative purposes.</figcaption>
