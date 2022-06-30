@@ -60,7 +60,7 @@ figcaption {
 <p class="description"><b>Abstract.</b> Accurately modeling quadrotor's system dynamics is critical for guaranteeing agile, safe, and stable navigation. The model needs to capture the system behavior in multiple flight regimes and operating conditions, including those producing highly nonlinear effects such as aerodynamic forces and torques, rotor interactions, or possible system configuration modifications. Classical approaches rely on handcrafted models and struggle to generalize and scale to capture these effects. In this paper, we present a novel Physics-Inspired Temporal Convolutional Network (PI-TCN) approach to learning quadrotor's system dynamics purely from robot experience. Our approach combines the expressive power of sparse temporal convolutions and dense feed-forward connections to make accurate system predictions. In addition, physics constraints are embedded in the training process to facilitate the network's generalization capabilities to data outside the training distribution. Finally, we design a model predictive control approach that incorporates the learned dynamics for accurate closed-loop trajectory tracking fully exploiting the learned model predictions in a receding horizon fashion. Experimental results demonstrate that our approach accurately extracts the structure of the quadrotor's dynamics from data, capturing effects that would remain hidden to classical approaches. To the best of our knowledge, this is the first time physics-inspired deep learning is successfully applied to temporal convolutional networks and to the system identification task, while concurrently enabling predictive control.</p>
 
 <figure>
-  <img src="/images/autotune_2.gif" alt="Quadrotor trajectory tracking." style="width:100%">
+  <img src="/images/pitcn_2.gif" alt="Quadrotor trajectory tracking." style="width:100%">
   <figcaption>Figure 2. Quadrotor trajectory tracking. The captured data is used to train PI-TCN to model the quadrotor's system dynamics in self-supervised fashion.</figcaption>
 </figure>
 
@@ -83,8 +83,8 @@ figcaption {
 </ul>
 
 <figure>
-  <img src="/images/autotune_3.png" alt="Trajectory completion (%) as a function of two parameters of a model-predictive controller." style="width:100%">
-  <figcaption>Figure 3. We compute a minimum-time trajectory passing through all waypoints. The trajectory is then segmented in parts that require different controller behaviors, and initial parameters for each segment are predicted with a regressor. The parameters are then jointly optimized with M-H sampling over multiple rollouts.</figcaption>
+  <img src="/images/pitcn_3.gif" alt="PI-TCN architecture." style="width:100%">
+  <figcaption>Figure 3. PI-TCN's architecture. The network receives an history of past flight inputs and states. A TCN extracts a sequence of time-correlated features, which are then processed by a MLP to predict the full system dynamics.</figcaption>
 </figure>
 
 ## Method
@@ -93,3 +93,15 @@ figcaption {
 
 <p class="description"><b>Physics-Inspired Loss.</b> Learning the dynamics purely from data poses the challenge to make the network generalizable outside the training distribution. However, it is necessary to concurrently guarantee that the network matches physical principles. Motivated by this observation, we embed physics constraints in the training process by including the physics laws in the loss function.</p>
 
+## Experiments
+
+<p class="description"><b>Closed-Loop Tracking Performance.</b> We validate the learned dynamical model against the nominal model in the real-world setting. Specifically, we employ the proposed MPC to control our quadrotor to track multiple trajectories with different models. We compare the tracking performance based on the positional RMSE. Figure 4 shows the results of this experiment.</p>
+
+<figure>
+  <img src="/images/pitcn_4.gif" alt="Closed-Loop Tracking Performance." style="width:100%">
+  <figcaption>Figure 4. Closed-Loop Tracking Performance.</figcaption>
+</figure>
+
+## Discussion and Conclusions
+
+In this work, we proposed PI-TCN, a deep neural network that extracts quadrotor's dynamics purely from data by leveraging the expressive power of temporal convolutional networks and the generalizability offered by instilling physics laws in the training process. Furthermore, we showed how to exploit the network's predictive performances for accurate predictive trajectory tracking. The proposed learning method provides several demonstrated advantages over existing methods in the literature. While classic approaches only rely on present information to estimate the system's dynamics, PI-TCN takes advantage of a history of states and control inputs to capture time-dependent features that would otherwise remain hidden. Moreover, extending the present with past information makes the model less subject to noise in the data. We demonstrated these capabilities in several experiments where PI-TCN performs accurate predictions both in simulation and real-world settings, consistently outperforming the classical nominal model and the learning-based baselines. While other learning-based methods decouple linear and angular accelerations or only estimate the former, jointly learning linear and angular accelerations allows capturing the hidden dependencies that bound forces and torques for nonholonomic and underactuated systems like the quadrotor. This advantage is also empirically demonstrated by embedding the learned-based model in an MPC framework and accurately tracking trajectories in different flight regimes. One limitation of the proposed approach is the computational time required by the MPC to solve its online optimization problem. Future works will improve the efficiency of our implementation and leverage GPU parallel computation to fully exploit PI-TCN in the controller horizon.
