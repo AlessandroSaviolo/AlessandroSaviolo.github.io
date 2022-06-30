@@ -71,7 +71,11 @@ div.description {
 <div class="title">Learning to Segment Human Body Parts with Synthetically Trained Deep CNNs</div>
 <div class="description"><u>A. Saviolo</u>, M. Bonotto, D. Evangelista, M. Imperoli, E. Menegatti, A. Pretto</div>
 <div class="description"><i>Conference on Intelligent Autonomous System (IAS)</i></div>
-<div class="description"><a href="https://alessandrosaviolo.github.io/HumanBodySegmentation/">Project</a></div>
+<div class="description">
+  <a href="https://alessandrosaviolo.github.io/HumanBodySegmentation/">Project</a>
+  <a href="https://arxiv.org/abs/2102.01460">Paper</a> 
+  <a href="https://github.com/AlessandroSaviolo/HBPSegmentation">Code</a>
+</div>
 </li>
 
 </ul>
