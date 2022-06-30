@@ -50,7 +50,7 @@ div.description {
 <div class="description"><i>IEEE Robotics and Automation Letters (RA-L)</i></div>
 <div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
 <div class="description">
-  <a href="https://alessandrosaviolo.github.io/Autotune/">Project Page</a>
+  <a href="https://alessandrosaviolo.github.io/Autotune/">Project</a>
   <a href="https://ieeexplore.ieee.org/document/9696365?source=authoralert">Paper</a> 
   <a href="https://github.com/uzh-rpg/mh_autotune">Code</a> 
   <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">Video</a>
