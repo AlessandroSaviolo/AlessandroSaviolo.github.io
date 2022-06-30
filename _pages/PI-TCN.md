@@ -47,6 +47,11 @@ figcaption {
 
 <p class="aligncenter"><a href="https://alessandrosaviolo.github.io/">Alessandro Saviolo</a>, <a href="https://lguanrui.github.io/">Guanrui Li</a>, <a href="https://scholar.google.it/citations?user=W8f0d6oAAAAJ&hl=en">Giuseppe Loianno</a></p>
 
+<p class="aligncenter">
+  <a href="[https://ieeexplore.ieee.org/document/9696365?source=authoralert](https://arxiv.org/abs/2206.03305)">Paper</a> 
+  <a href="https://youtu.be/O3fkwmNwL9E">Video</a>
+</p>
+
 <figure>
 <img src="/images/pitcn_1.jpg" alt="Long-exposure photo showing multiple laps over Lemniscate trajectory when using the nominal (NOM) and the proposed (PI-TCN) dynamics." style="width:100%">
 <figcaption>Figure 1. Long-exposure photo showing multiple laps over Lemniscate trajectory when using the nominal (NOM) and the proposed (PI-TCN) dynamics. The reference trajectory (white) is approximately projected on the image based on real-world experiments for illustrative purposes.</figcaption>
