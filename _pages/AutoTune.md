@@ -49,19 +49,6 @@ figcaption {
 
 <p class="aligncenter"><a href="https://ieeexplore.ieee.org/document/9696365?source=authoralert">Paper</a> <a href="https://github.com/uzh-rpg/mh_autotune">Code</a> <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">Video</a></p>
 
-```
-@ARTICLE{Autotune2022,
-  author  = {Loquercio, Antonio and Saviolo, Alessandro and Scaramuzza, Davide},
-  title   = {AutoTune: Controller Tuning for High-Speed Flight},
-  journal = {IEEE Robotics and Automation Letters}, 
-  year    = {2022},
-  volume  = {7},
-  number  = {2},
-  pages   = {4432-4439},
-  doi     = {10.1109/LRA.2022.3146897}
-}
-```
-
 <figure>
 <img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
 <figcaption>Figure 1. Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h. We automatically find a controller configuration that can fly such a high-speed maneuver with a novel sampling-based method called AutoTune. To get a better sense of the speed achieved by the quadrotor, please watch the <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">supplementary video</a>.</figcaption>
