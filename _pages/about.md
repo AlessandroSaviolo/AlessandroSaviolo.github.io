@@ -41,7 +41,7 @@ div.description {
 <p class="aboutme">
 <ul style="list-style-type:square">
   <li><b>Jun, 2022</b>. <a href="https://alessandrosaviolo.github.io/PI-TCN/">Paper</a> accepted at RAL+IROS 2022 🦾</li>
-  <li><b>May, 2022</b>. Will present in person at ICRA conference ✈️</li>
+  <li><b>May, 2022</b>. Will present in person at ICRA conference in Philadelphia ✈️:us:</li>
   <li><b>Jan, 2022</b>. <a href="https://alessandrosaviolo.github.io/Autotune/">Paper</a> accepted at RAL+ICRA 2022 🦾</li>
   <li><b>Aug, 2021</b>. Joined Agile Robotics and Perception Lab 👨‍🎓</li>
 </ul>
