@@ -46,7 +46,7 @@ div.description {
   <li style="list-style: none;">Neural Radiance Fields for Autonomous Navigation</li>
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Luigi Neto</b></span><span style="float:right;">Jun 2022 - Ongoing</span></li>
+  <li style="line-height: 50%;"><span style="float:left;"><b>Luigi Noto</b></span><span style="float:right;">Jun 2022 - Ongoing</span></li>
   <li style="list-style: none;">Active Learning of Quadrotor's System Dynamics</li>  
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
