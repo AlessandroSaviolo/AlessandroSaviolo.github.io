@@ -44,7 +44,8 @@ div.description {
 <div class="description">
   <a href="https://alessandrosaviolo.github.io/PI-TCN/">Project</a>
   <a href="https://arxiv.org/abs/2206.03305">Paper</a> 
-  <a href="https://youtu.be/O3fkwmNwL9E">Video</a>
+  <a href="https://github.com/arplaboratory/PI-TCN">Code</a> 
+  <a href="https://youtu.be/dsOtKfuRjEk">Video</a>
 </div>
 </li>
   
