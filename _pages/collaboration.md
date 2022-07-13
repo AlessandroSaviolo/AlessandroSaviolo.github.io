@@ -30,7 +30,7 @@ div.description {
 ## Advised Students
 
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Roshan Balakrishnan</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
+  <li style="line-height: 50%;"><span style="float:left;"><b>Roshan Balu</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
   <li style="list-style: none;">Automatic Charging for Continous Flight</li>  
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
@@ -52,4 +52,7 @@ div.description {
 <p class="collaboration"><ul style="list-style-type:square">
   <li style="line-height: 50%;"><span style="float:left;"><b>Almas Purisic</b></span><span style="float:right;">Jul 2022 - Ongoing</span></li>
   <li style="list-style: none;">L1 Adaptive Control</li>  
+</ul></p>
+<p class="collaboration"><ul style="list-style-type:square">
+  <li style="line-height: 50%;"><span style="float:left;"><b>Pratyaksh Prabhav Rao</b></span><span style="float:right;">Incoming</span></li>  
 </ul></p>
