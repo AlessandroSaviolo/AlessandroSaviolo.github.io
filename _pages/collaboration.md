@@ -34,10 +34,6 @@ div.description {
   <li style="list-style: none;">Automatic Charging for Continous Flight</li>  
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Varun Menon</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
-  <li style="list-style: none;">Deep Reinforcement Learning for Autonomous Navigation</li>
-</ul></p>
-<p class="collaboration"><ul style="list-style-type:square">
   <li style="line-height: 50%;"><span style="float:left;"><b>Yash Patel</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
   <li style="list-style: none;">Neural Radiance Fields for Autonomous Navigation</li>
 </ul></p>
@@ -50,5 +46,6 @@ div.description {
   <li style="list-style: none;">L1 Adaptive Control</li>  
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Pratyaksh Prabhav Rao</b></span><span style="float:right;">Incoming</span></li>  
+  <li style="line-height: 50%;"><span style="float:left;"><b>Pratyaksh Prabhav Rao</b></span><span style="float:right;">Aug 2022 - Ongoing</span></li>  
+  <li style="list-style: none;">Deep Reinforcement Learning for Autonomous Navigation</li>
 </ul></p>
