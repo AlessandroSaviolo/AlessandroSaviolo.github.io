@@ -34,7 +34,9 @@ div.description {
 
 # Welcome!
 
-<p class="aboutme">I am a Ph.D. student at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab (ARPL)</a>, New York University, under the supervision of <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Prof. Giuseppe Loianno</a>. I got a Bachelor's and Master's degree in Computer Engineering from the University of Padova. During my Master's studies, I spent one semester in Taiwan at the National Chao Tung University. Moreover, I was awarded a scholarship from the Swiss European Mobility Programme to participate in a 6-months research project at the Robotics and Perception Group in Zurich supervised by Antonio Loquercio and Prof. Davide Scaramuzza. After my Master's graduation, I worked for 9-months as a full-time software engineer at Flexsight, a start-up proving cutting-edge artificial vision and autonomous perception solutions.</p>
+<p class="aboutme">I am currently pursuing my Ph.D. at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab (ARPL)</a> at New York University, under the esteemed guidance of <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Prof. Giuseppe Loianno</a>. 
+I hold a Bachelor's and Master's degree in Computer Engineering from the University of Padova. During my Master's program, I had the enriching experience of spending a semester at National Chao Tung University in Taiwan. Furthermore, I was honored to receive a scholarship through the Swiss European Mobility Programme, which allowed me to engage in a six-month research project at the Robotics and Perception Group in Zurich. There, I was supervised by Antonio Loquercio and Prof. Davide Scaramuzza. 
+Following the completion of my Master's degree, I spent nine months as a full-time software engineer at Flexsight, a cutting-edge start-up specializing in artificial vision and autonomous perception solutions.</p>
 
 ## Latest News
 
