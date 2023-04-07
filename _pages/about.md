@@ -40,11 +40,13 @@ div.description {
 
 <p class="aboutme">
 <ul style="list-style-type:square">
-  <li><b>Jan, 2023</b>. Two papers accepted at ICRA 2023 conference 🦾🦾</li>
+  <li><b>May, 2023</b>. Will present in person at ICRA 2023 conference in London ✈️</li>
+  <li><b>Mar, 2023</b>. <a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">Review/Vision article</a> accepted at Annual Reviews in Control 2023 🦾</li>
+  <li><b>Jan, 2023</b>. AutoCharge and <a href="https://arxiv.org/abs/2303.08181">GaPT</a> accepted at ICRA 2023 conference 🦾🦾</li>
   <li><b>Oct, 2022</b>. Will present virtually at IROS 2022 conference 📺</li>
-  <li><b>Jun, 2022</b>. <a href="https://alessandrosaviolo.github.io/PI-TCN/">Paper</a> accepted at RAL+IROS 2022 🦾</li>
+  <li><b>Jun, 2022</b>. <a href="https://alessandrosaviolo.github.io/PI-TCN/">PI-TCN</a> accepted at RAL+IROS 2022 🦾</li>
   <li><b>May, 2022</b>. Will present in person at ICRA 2022 conference in Philadelphia ✈️</li>
-  <li><b>Jan, 2022</b>. <a href="https://alessandrosaviolo.github.io/Autotune/">Paper</a> accepted at RAL+ICRA 2022 🦾</li>
+  <li><b>Jan, 2022</b>. <a href="https://alessandrosaviolo.github.io/Autotune/">AutoTune</a> accepted at RAL+ICRA 2022 🦾</li>
   <li><b>Aug, 2021</b>. Joined Agile Robotics and Perception Lab 👨‍🎓</li>
 </ul>
 </p>
