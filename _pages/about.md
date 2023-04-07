@@ -43,7 +43,7 @@ Following the completion of my Master's degree, I spent nine months as a full-ti
 <p class="aboutme">
 <ul style="list-style-type:square">
   <li><b>May, 2023</b>. Will present in person at ICRA 2023 conference in London ✈️</li>
-  <li><b>Mar, 2023</b>. <a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">Review/Vision article</a> accepted at Annual Reviews in Control 2023 🦾</li>
+  <li><b>Mar, 2023</b>. <a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">Journal article</a> accepted at Annual Reviews in Control 2023 🦾</li>
   <li><b>Jan, 2023</b>. AutoCharge and <a href="https://arxiv.org/abs/2303.08181">GaPT</a> accepted at ICRA 2023 conference 🦾🦾</li>
   <li><b>Oct, 2022</b>. Will present virtually at IROS 2022 conference 📺</li>
   <li><b>Jun, 2022</b>. <a href="https://alessandrosaviolo.github.io/PI-TCN/">PI-TCN</a> accepted at RAL+IROS 2022 🦾</li>
