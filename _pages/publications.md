@@ -53,6 +53,8 @@ div.description {
 </div>
 </li>
 
+</ul>
+
 ## 2022
 
 <ul style="list-style-type:square">
