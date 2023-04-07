@@ -23,18 +23,39 @@ div.description {
 </style>
 </head>
 
+## 2023
+
+<ul style="list-style-type:square">
+  
+<li>
+<div class="title">Learning Quadrotor Dynamics for Precise, Safe, and Agile Flight Control</div>
+<div class="description"><u>A. Saviolo</u>, G. Loianno</div>
+<div class="description"><i>Annual Review in Control</i></div>
+<div class="description">
+  <a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">Paper</a>
+</div>
+</li>
+
+<li>
+<div class="title">AutoCharge: Autonomous Charging for Perpetual Quadrotor Missions</div>
+<div class="description"<u>A. Saviolo*</u>, J. Mao, R. Balu TMB, V. Radhakrishnan, G. Loianno</div>
+<div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
+</li>
+  
+<li>
+<div class="title">GaPT: Gaussian Process Toolkit for Online Regression with Application to Learning Quadrotor Dynamics</div>
+<div class="description">F. Crocetti, J. Mao, <u>A. Saviolo</u>, G. Costante, G. Loianno</div>
+<div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
+<div class="description">
+  <a href="https://arxiv.org/abs/2303.08181">Paper</a> 
+  <a href="https://github.com/arplaboratory/GaPT">Code</a> 
+  <a href="https://youtu.be/Bi5x2sQcW3s">Video</a>
+</div>
+</li>
+
 ## 2022
 
 <ul style="list-style-type:square">
-
-<!--
-  <li>
-  <div class="title">Active Learning of Quadrotor Discrete Dynamics for Uncertainty-Aware Model Predictive Control</div>
-  <div class="description"><u>A. Saviolo</u>, J. Frey, A. Rathod, M. Diehl, G. Loianno</div>
-  <div class="description"><i>Conference on Robot Learning (CoRL)</i> (submitted)</div>
-  <div class="description"><a href="https://alessandrosaviolo.github.io/ActiveLearningDynamics/">Project Page</a></div>
-  </li>
--->
 
 <li>
 <div class="title">Physics-Inspired Temporal Learning of Quadrotor Dynamics for Accurate Model Predictive Trajectory Tracking</div>
@@ -43,7 +64,7 @@ div.description {
 <div class="description"><i>IEEE International Conference on Intelligent Robots and Systems (IROS)</i></div>
 <div class="description">
   <a href="https://alessandrosaviolo.github.io/PI-TCN/">Project</a>
-  <a href="https://arxiv.org/abs/2206.03305">Paper</a> 
+  <a href="https://ieeexplore.ieee.org/abstract/document/9834096">Paper</a> 
   <a href="https://github.com/arplaboratory/PI-TCN">Code</a> 
   <a href="https://youtu.be/dsOtKfuRjEk">Video</a>
 </div>
@@ -56,7 +77,7 @@ div.description {
 <div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
 <div class="description">
   <a href="https://alessandrosaviolo.github.io/Autotune/">Project</a>
-  <a href="https://ieeexplore.ieee.org/document/9696365?source=authoralert">Paper</a> 
+  <a href="https://ieeexplore.ieee.org/document/9696365">Paper</a> 
   <a href="https://github.com/uzh-rpg/mh_autotune">Code</a> 
   <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">Video</a>
 </div>
