@@ -38,10 +38,6 @@ div.description {
   <li style="list-style: none;">Neural Radiance Fields for Autonomous Navigation</li>
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Almas Purisic</b></span><span style="float:right;">Jul 2022 - Ongoing</span></li>
-  <li style="list-style: none;">L1 Adaptive Control</li>  
-</ul></p>
-<p class="collaboration"><ul style="list-style-type:square">
   <li style="line-height: 50%;"><span style="float:left;"><b>Pratyaksh Prabhav Rao</b></span><span style="float:right;">Aug 2022 - Ongoing</span></li>  
   <li style="list-style: none;">Image-Based Autonomous Navigation</li>
 </ul></p>
