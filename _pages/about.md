@@ -43,7 +43,7 @@ Following the completion of my Master's degree, I spent nine months as a full-ti
 <p class="aboutme">
 <ul style="list-style-type:square">
   <li><b>Jun, 2023</b>. <a href="https://arxiv.org/abs/2306.05111">AutoCharge</a> featured on <a href="https://spectrum.ieee.org/video-friday-spot-levels-up">IEEE Spectrum</a> 📺</li>
-  <li><b>May, 2023</b>. Will present in person at Energy Efficient Aerial Robotic Systems workshop in London ✈️</li>
+  <li><b>May, 2023</b>. Will present in person at Energy Efficient Aerial Robotic Systems workshop ✈️</li>
   <li><b>May, 2023</b>. Will present in person at ICRA 2023 conference in London ✈️</li>
   <li><b>May, 2023</b>. Honored to have been awarded the Dr. Li Annual ECE Publication Award 🏆</li>
   <li><b>Mar, 2023</b>. <a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">Journal article</a> accepted at Annual Reviews in Control 2023 🦾</li>
