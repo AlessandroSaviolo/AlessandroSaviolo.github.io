@@ -40,6 +40,10 @@ div.description {
 <div class="title">AutoCharge: Autonomous Charging for Perpetual Quadrotor Missions</div>
 <div class="description"><u>A. Saviolo*</u>, J. Mao, R. Balu TMB, V. Radhakrishnan, G. Loianno</div>
 <div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
+<div class="description">
+  <a href="https://arxiv.org/abs/2306.05111">Paper</a>
+  <a href="https://youtu.be/6xYvI-qIe3M">Video</a>
+</div>
 </li>
   
 <li>
