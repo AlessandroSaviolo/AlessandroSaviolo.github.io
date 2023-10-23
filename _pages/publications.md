@@ -23,7 +23,7 @@ div.description {
 </style>
 </head>
 
-## 2023
+## 2024
 
 <ul style="list-style-type:square">
 
@@ -35,6 +35,21 @@ div.description {
   <a href="https://youtu.be/35sX9C1wUpA">Video</a>
 </div>
 </li>
+
+<li>
+<div class="title">Active Learning of Discrete-Time Dynamics for Uncertainty-Aware Model Predictive Control</div>
+<div class="description"><u>A. Saviolo</u>, J. Frey, A. Rathod, M. Diehl, G. Loianno</div>
+<div class="description">
+  <a href="https://arxiv.org/pdf/2210.12583.pdf">Paper</a>
+  <a href="https://youtu.be/QmEhSTcWob4">Video</a>
+</div>
+</li>
+
+</ul>
+  
+## 2023
+
+<ul style="list-style-type:square">
   
 <li>
 <div class="title">Learning Quadrotor Dynamics for Precise, Safe, and Agile Flight Control</div>
