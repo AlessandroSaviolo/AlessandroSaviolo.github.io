@@ -57,7 +57,7 @@ div.description {
   
 <li>
 <div class="title">GaPT: Gaussian Process Toolkit for Online Regression with Application to Learning Quadrotor Dynamics</div>
-<div class="description">F. Crocetti, J. Mao, <u>A. Saviolo</u>, G. Costante, G. Loianno</div>
+<div class="description">F. Crocetti*, J. Mao*, <u>A. Saviolo</u>, G. Costante, G. Loianno</div>
 <div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
 <div class="description">
   <a href="https://arxiv.org/abs/2303.08181">Paper</a> 
