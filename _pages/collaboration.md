@@ -34,6 +34,6 @@ div.description {
   <li style="list-style: none;">Dynamics learning for wixed wings under state uncertainty</li>  
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Niko Picello</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
+  <li style="line-height: 50%;"><span style="float:left;"><b>Niko Picello</b></span><span style="float:right;">Sep 2023 - Ongoing</span></li>
   <li style="list-style: none;">Collision-free real-time navigation with monocular camera</li>
 </ul></p>
