@@ -26,6 +26,15 @@ div.description {
 ## 2023
 
 <ul style="list-style-type:square">
+
+<li>
+<div class="title">Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories</div>
+<div class="description"><u>A. Saviolo*</u>, P. Rao*, V. Radhakrishnan, J. Xiao, G. Loianno</div>
+<div class="description">
+  <a href="https://arxiv.org/pdf/2310.04781.pdf">Paper</a>
+  <a href="https://youtu.be/35sX9C1wUpA">Video</a>
+</div>
+</li>
   
 <li>
 <div class="title">Learning Quadrotor Dynamics for Precise, Safe, and Agile Flight Control</div>
