@@ -30,14 +30,10 @@ div.description {
 ## Advised Students
 
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Roshan Balu TMB</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
-  <li style="list-style: none;">Automatic Charging for Continous Flight</li>  
+  <li style="line-height: 50%;"><span style="float:left;"><b>Pratyaksh Prabhav Rao</b></span><span style="float:right;">Aug 2022 - Ongoing</span></li>
+  <li style="list-style: none;">Dynamics learning for wixed wings under state uncertainty</li>  
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Yash Patel</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
-  <li style="list-style: none;">Neural Radiance Fields for Autonomous Navigation</li>
-</ul></p>
-<p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Pratyaksh Prabhav Rao</b></span><span style="float:right;">Aug 2022 - Ongoing</span></li>  
-  <li style="list-style: none;">Image-Based Autonomous Navigation</li>
+  <li style="line-height: 50%;"><span style="float:left;"><b>Niko Picello</b></span><span style="float:right;">Mar 2022 - Ongoing</span></li>
+  <li style="list-style: none;">Collision-free real-time navigation with monocular camera</li>
 </ul></p>
