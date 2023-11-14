@@ -23,6 +23,8 @@ div.description {
 </style>
 </head>
 
+# Publications
+
 ## 2024
 
 <ul style="list-style-type:square">
@@ -133,3 +135,14 @@ div.description {
 </ul>
 
 <p><small>*: equal contribution</small></p>
+
+# Reviews
+
+<ul>
+<li><div class="description">IEEE Transactions on Robotics</div></li>
+<li><div class="description">IEEE Robotics and Automation Letters</div></li>
+<li><div class="description">IEEE International Conference on Robotics and Automation</div></li>
+<li><div class="description">IEEE/RSJ International Conference on Intelligent Robots and Systems</div></li>
+<li><div class="description">International Conference on Advanced Robotics</div></li>
+<li><div class="description">Intelligent Service Robotics</div></li>
+</ul>
