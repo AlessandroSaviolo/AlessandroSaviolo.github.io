@@ -1,15 +1,15 @@
 ---
 <!-- layout: archive -->
 title: ""
-permalink: /publications/
+permalink: /research/
 author_profile: true
 redirect_from:
-  - /publications
+  - /research
 ---
 
 <head>
 <style>
-p.publications {
+p.research {
   text-align: justify;
 }
 div.title {
