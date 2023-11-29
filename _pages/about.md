@@ -42,7 +42,9 @@ Following the completion of my Master's degree, I spent nine months as a full-ti
 
 <p class="aboutme">
 <ul style="list-style-type:square">
-  <li><b>Oct, 2023</b>. <a href="https://arxiv.org/abs/2310.04781">Paper</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2">IEEE Spectrum</a> 📺</li>  
+  <li><b>Nov, 2023</b>. <a href="https://arxiv.org/abs/2210.12583">Journal article</a> accepted at Transactions on Robotics 2023 🦾</li>
+  <li><b>Oct, 2023</b>. <a href="https://arxiv.org/abs/2310.04781">Paper article</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2">IEEE Spectrum</a> 📺</li>
+  <li><b>Oct, 2023</b>. <a href="https://alessandrosaviolo.github.io/">Paper article</a> accepted at ICAR 2023 🦾</li>
   <li><b>Jun, 2023</b>. <a href="https://arxiv.org/abs/2306.05111">AutoCharge</a> featured on <a href="https://spectrum.ieee.org/video-friday-spot-levels-up">IEEE Spectrum</a> 📺</li>
   <li><b>May, 2023</b>. Will present in person at Energy Efficient Aerial Robotic Systems workshop ✈️</li>
   <li><b>May, 2023</b>. Will present in person at ICRA 2023 conference in London ✈️</li>
