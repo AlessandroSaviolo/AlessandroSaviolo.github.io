@@ -41,6 +41,7 @@ div.description {
 <li>
 <div class="title">Active Learning of Discrete-Time Dynamics for Uncertainty-Aware Model Predictive Control</div>
 <div class="description"><u>A. Saviolo</u>, J. Frey, A. Rathod, M. Diehl, G. Loianno</div>
+<div class="description"><i>IEEE Transactions on Robotics (T-RO)</i></div>
 <div class="description">
   <a href="https://arxiv.org/pdf/2210.12583.pdf">Paper</a>
   <a href="https://youtu.be/QmEhSTcWob4">Video</a>
@@ -52,7 +53,16 @@ div.description {
 ## 2023
 
 <ul style="list-style-type:square">
-  
+
+<li>
+<div class="title">Exploring Deep Reinforcement Learning for Robust Target Tracking using Micro Aerial Vehicles</div>
+<div class="description">A. Dionigi, M. Leomanni, <u>A. Saviolo</u>, G. Loianno, G. Costante</div>
+<div class="description"><i>International Conference on Advanced Robotics (ICAR)</i></div>
+<div class="description">
+  <a href="https://www.youtube.com/watch?v=22kI976fykA&ab_channel=ISARLab_UNIPG">Video</a>
+</div>
+</li>
+
 <li>
 <div class="title">Learning Quadrotor Dynamics for Precise, Safe, and Agile Flight Control</div>
 <div class="description"><u>A. Saviolo</u>, G. Loianno</div>
