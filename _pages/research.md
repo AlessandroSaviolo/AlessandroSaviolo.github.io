@@ -60,6 +60,7 @@ div.description {
 <div class="description">A. Dionigi, M. Leomanni, <u>A. Saviolo</u>, G. Loianno, G. Costante</div>
 <div class="description"><i>International Conference on Advanced Robotics (ICAR)</i></div>
 <div class="description">
+  <a href="https://arxiv.org/abs/2312.17552">Paper</a>
   <a href="https://www.youtube.com/watch?v=22kI976fykA&ab_channel=ISARLab_UNIPG">Video</a>
 </div>
 </li>
