@@ -32,6 +32,7 @@ div.description {
 <li>
 <div class="title">Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories</div>
 <div class="description"><u>A. Saviolo*</u>, P. Rao*, V. Radhakrishnan, J. Xiao, G. Loianno</div>
+  <div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
 <div class="description">
   <a href="https://arxiv.org/pdf/2310.04781.pdf">Paper</a>
   <a href="https://youtu.be/35sX9C1wUpA">Video</a>
