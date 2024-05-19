@@ -40,7 +40,7 @@ I hold a Bachelor's and Master's degree in Computer Engineering from the Univers
 # Research
 
 ## Dynamics Learning
-<img src="/images/dynamics_learning.gif" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
+<img src="/images/dynamics_learning.gif" alt="By combining online learning with uncertainty-aware model predictive control, the learned dynamics actively adapt to multiple challenging operating conditions, enabling unprecedented flight control." style="width:100%">
 <p>Model-based control needs an accurate system dynamics model to safely and precisely control robots in complex environments. This model should adapt to changing conditions. Our research introduces a self-supervised learning method that actively models nonlinear robotic systems' dynamics. We combine offline learning from past data and online learning from current interactions, making the process highly sample-efficient and adaptive. We also design an uncertainty-aware model predictive controller that considers data uncertainty to choose optimal control actions, improving both performance and learning efficiency.</p>
 
 ## Visual Tracking
