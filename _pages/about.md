@@ -40,10 +40,7 @@ I hold a Bachelor's and Master's degree in Computer Engineering from the Univers
 ## Research
 
 ### Dynamics learning
-<figure>
 <img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
-<figcaption>Figure 1. Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h. We automatically find a controller configuration that can fly such a high-speed maneuver with a novel sampling-based method called AutoTune. To get a better sense of the speed achieved by the quadrotor, please watch the <a href="https://www.youtube.com/watch?v=m2q_y7C01So&ab_channel=UZHRoboticsandPerceptionGroup">supplementary video</a>.</figcaption>
-</figure>
 
 Model-based control requires an accurate model of the system dynamics for precisely and safely controlling the robot in complex and dynamic environments. Moreover, in the presence of variations in the operating conditions, the model should be continuously refined to compensate for dynamics changes. In this research, we present a self-supervised learning approach that actively models the dynamics of nonlinear robotic systems. We combine offline learning from past experience and online learning from current robot interaction with the unknown environment. These two ingredients enable a highly sample-efficient and adaptive learning process, capable of accurately inferring model dynamics in real-time even in operating regimes that greatly differ from the training distribution. Moreover, we design an uncertainty-aware model predictive controller that is heuristically conditioned to the aleatoric (data) uncertainty of the learned dynamics. This controller actively chooses the optimal control actions that (i) optimize the control performance and (ii) improve the efficiency of online learning sample collection. We demonstrate the effectiveness of our method through a series of challenging real-world experiments using a quadrotor system. Our approach showcases high resilience and generalization capabilities by consistently adapting to unseen flight conditions, while it significantly outperforms classical and adaptive control baselines.
 
