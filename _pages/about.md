@@ -41,13 +41,15 @@ I hold a Bachelor's and Master's degree in Computer Engineering from the Univers
 
 ### Dynamics learning
 <img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
-<p>Model-based control needs an accurate system dynamics model to safely and precisely control robots in complex environments. This model should adapt to changing conditions. Our research introduces a self-supervised learning method that actively models nonlinear robotic systems' dynamics. We combine offline learning from past data and online learning from current interactions, making the process highly sample-efficient and adaptive. We also design an uncertainty-aware model predictive controller that considers data uncertainty to choose optimal control actions, improving both performance and learning efficiency. We tested our method on a quadrotor in challenging real-world conditions, demonstrating its resilience, adaptability, and superiority over traditional and adaptive control methods.</p>
+<p>Model-based control needs an accurate system dynamics model to safely and precisely control robots in complex environments. This model should adapt to changing conditions. Our research introduces a self-supervised learning method that actively models nonlinear robotic systems' dynamics. We combine offline learning from past data and online learning from current interactions, making the process highly sample-efficient and adaptive. We also design an uncertainty-aware model predictive controller that considers data uncertainty to choose optimal control actions, improving both performance and learning efficiency.</p>
 
 ### Visual tracking
-
+<img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
+<p>Visual control allows quadrotors to navigate using real-time sensory data, but challenges like generalization, reliability, and real-time response remain. Our research addresses these issues with a new perception framework using foundation models for universal object detection and tracking. This framework, combined with a multi-layered tracker, ensures continuous target visibility despite motion blur, light changes, and occlusions. We also introduce a model-free visual controller for resilient tracking. Our system works efficiently with limited hardware, using only an onboard camera and an inertial measurement unit.</p>
 
 ### Perpetual autonomy
-
+<img src="/images/autotune_1.jpeg" alt="Our quadrotor flies a time-optimal trajectory with speeds over 50 km/h." style="width:100%">
+<p>Battery endurance is a major challenge for long-term autonomy and long-range aerial robot operations. Our solution, AutoCharge, addresses this with an autonomous charging system for quadrotors. AutoCharge combines a portable ground station with a lightweight, flexible charging tether for universal, efficient, and robust charging. We designed circular magnetic connectors for precise, orientation-agnostic connections between the ground station and tether. An electromagnet on the ground station increases tolerance to localization and control errors during docking, ensuring smooth undocking after charging. We validated AutoCharge in a 10-hour continuous quadrotor flight experiment, demonstrating reliable and repeatable docking and undocking, enabling perpetual flight missions.</p>
 
 ## Latest News
 
