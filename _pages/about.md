@@ -48,7 +48,7 @@ I hold a Bachelor's and Master's degree in Computer Engineering from the Univers
 
 ### Perpetual Autonomy
 <img src="/images/perpetual_autonomy.gif" alt="AutoCharge, an autonomous charging system for quadrotors that is capable of universal, highly efficient, and robust charging." style="width:100%">
-<p>Battery endurance is a major challenge for long-term autonomy and long-range aerial robot operations. Our solution, AutoCharge, addresses this with an autonomous charging system for quadrotors. AutoCharge combines a portable ground station with a lightweight, flexible charging tether for universal, efficient, and robust charging. We designed circular magnetic connectors for precise, orientation-agnostic connections between the ground station and tether. An electromagnet on the ground station increases tolerance to localization and control errors during docking, ensuring smooth undocking after charging. We validated AutoCharge in a 10-hour continuous quadrotor flight experiment, demonstrating reliable and repeatable docking and undocking, enabling perpetual flight missions.</p>
+<p>Battery endurance is a major challenge for long-term autonomy and long-range aerial robot operations. Our solution, AutoCharge, addresses this with an autonomous charging system for quadrotors. AutoCharge combines a portable ground station with a lightweight, flexible charging tether for universal, efficient, and robust charging. We designed circular magnetic connectors for precise, orientation-agnostic connections between the ground station and tether. An electromagnet on the ground station increases tolerance to localization and control errors during docking, ensuring smooth undocking after charging.</p>
 
 ## Latest News
 <p class="aboutme">
