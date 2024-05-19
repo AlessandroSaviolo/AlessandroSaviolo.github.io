@@ -63,7 +63,7 @@ I hold a Bachelor's and Master's degree in Computer Engineering from the Univers
   <li><b>Oct, 2023</b>. <a href="https://arxiv.org/abs/2310.04781">Paper article</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2">IEEE Spectrum</a> 📺</li>
   <li><b>Oct, 2023</b>. <a href="https://alessandrosaviolo.github.io/">Paper article</a> accepted at ICAR 2023 🦾</li>
   <li><b>Jun, 2023</b>. <a href="https://arxiv.org/abs/2306.05111">AutoCharge</a> featured on <a href="https://spectrum.ieee.org/video-friday-spot-levels-up">IEEE Spectrum</a> 📺</li>
-  <li><b>May, 2023</b>. Will present in person at ICRA Energy Efficient Aerial Robotic Systems workshop ✈️</li>
+  <li><b>May, 2023</b>. Will present in person at ICRA Energy Efficient Aerial Robotics workshop ✈️</li>
   <li><b>May, 2023</b>. Will present in person at ICRA 2023 conference in London ✈️</li>
   <li><b>May, 2023</b>. Honored to have been awarded the Dr. Li Annual ECE Publication Award 🏆</li>
   <li><b>Mar, 2023</b>. <a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">Journal article</a> accepted at Annual Reviews in Control 2023 🦾</li>
