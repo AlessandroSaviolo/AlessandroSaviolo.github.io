@@ -39,8 +39,8 @@ I hold a Bachelor's and Master's degree in Computer Engineering from the Univers
 
 ## Research
 ### Reactive Collision Avoidance
-<img src="/images/reactive_collision_avoidance.gif" alt="" style="width:100%">
-<p></p>
+<img src="/images/reactive_collision_avoidance.gif" alt="Quadrotor navigating through obstacles using real-time reactive collision avoidance framework" style="width:100%">
+<p>In dynamic, unstructured environments, real-time collision avoidance is critical for robotic systems to navigate safely and efficiently. Our research introduces a novel framework that tightly integrates perception, planning, and control for quadrotors, enabling safe navigation in environments with unpredictable obstacles. We leverage monocular depth estimation (MDE) to enhance noisy RGB-D data, dynamically refining it in real-time. We compute optimal control inputs using nonlinear model predictive control (NMPC) while ensuring safety through adaptive control barrier functions (CBFs). This tight integration allows our system to respond to high-risk collision points in milliseconds, enabling agile navigation without prior knowledge of the environment. Through extensive indoor and outdoor experiments, we've demonstrated that our approach generalizes to unknown environments, allowing for safe, real-time flight without requiring environment-specific tuning.</p>
 
 ### Dynamics Learning
 <img src="/images/dynamics_learning.gif" alt="By combining online learning with uncertainty-aware model predictive control, the learned dynamics actively adapt to multiple challenging operating conditions, enabling unprecedented flight control." style="width:100%">
