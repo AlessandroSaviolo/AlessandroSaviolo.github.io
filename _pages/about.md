@@ -34,8 +34,8 @@ div.description {
 
 # Welcome!
 
-<p>I am currently pursuing my Ph.D. at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL) at New York University, under the esteemed guidance of Prof. <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Giuseppe Loianno</a>. 
-I hold a Bachelor's and Master's degree in Computer Engineering from the University of Padova. During my Master's program, I had the enriching experience of spending a semester at National Chao Tung University in Taiwan. Furthermore, I was honored to receive a scholarship through the Swiss European Mobility Programme, which allowed me to engage in a six-month research project at the Robotics and Perception Group in Zurich. Following the completion of my Master's degree, I spent nine months as a full-time software engineer at Flexsight, a cutting-edge start-up specializing in artificial vision and autonomous perception solutions.</p>
+<p>I am currently pursuing my Ph.D. at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL) at New York University, under the guidance of Prof. <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Giuseppe Loianno</a>. 
+My research focuses on developing adaptive control systems for autonomous robots, integrating deep learning with control theory to solve real-world challenges. I hold Bachelor's and Master's degrees in Computer Engineering from the University of Padova, with research experience at the Robotics and Perception Group in Zurich and industry experience as a software engineer at Flexsight.</p>
 
 ## Research
 ### Reactive Collision Avoidance
