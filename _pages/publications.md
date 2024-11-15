@@ -34,7 +34,6 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <li>
 <div class="title">Reactive Collision Avoidance for Safe Agile Navigation</div>
 <div class="description"><u>A. Saviolo</u>, N. Picello, R. Verma, G. Loianno</div>
-  <div class="description"><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></div>
 <div class="description">
   <a href="https://www.arxiv.org/pdf/2409.11962">Paper</a>
   <a href="https://youtu.be/pUiWym4NsvA">Video</a>
@@ -44,7 +43,6 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <li>
 <div class="title">Decentralized Nonlinear Model Predictive Control for Safe Collision Avoidance in Quadrotor Teams with Limited Detection Range</div>
 <div class="description">M. Goarin, G. Li, <u>A. Saviolo</u>, G. Loianno</div>
-  <div class="description"><i>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)</i></div>
 <div class="description">
   <a href="https://arxiv.org/pdf/2409.17379">Paper</a>
   <a href="https://youtu.be/qTZPzcUJg0s">Video</a>
