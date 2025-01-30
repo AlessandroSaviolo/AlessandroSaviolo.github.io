@@ -57,8 +57,8 @@ My research focuses on developing adaptive control systems for autonomous robots
 ## Latest News
 <p class="aboutme">
 <ul style="list-style-type:square">
-  <li><b>Jan, 2024</b>. <a href="https://arxiv.org/abs/2409.11962">Paper article</a> accepted at ICRA 2025 🦾</li>
-  <li><b>Jan, 2024</b>. <a href="https://arxiv.org/pdf/2409.17379">Paper article</a> accepted at ICRA 2025 🦾</li>
+  <li><b>Jan, 2025</b>. <a href="https://arxiv.org/abs/2409.11962">Paper article</a> accepted at ICRA 2025 🦾</li>
+  <li><b>Jan, 2025</b>. <a href="https://arxiv.org/abs/2409.17379">Paper article</a> accepted at ICRA 2025 🦾</li>
   <li><b>May, 2024</b>. Will present in person at ICRA Agile Robotics workshop ✈️</li>
   <li><b>May, 2024</b>. Will present in person at ICRA Aerial Robotics workshop ✈️</li>
   <li><b>May, 2024</b>. Will present in person at ICRA 2024 conference in Yokohama ✈️</li>
