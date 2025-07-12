@@ -27,9 +27,18 @@ div.description {
 
 For the latest list of publications, please visit my <a href="https://scholar.google.com/citations?user=HaOQ8AoAAAAJ&hl=en&oi=ao">Google Scholar profile</a>.
 
-## 2024
+## 2025
 
 <ul style="list-style-type:square">
+
+<li>
+<div class="title">NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments</div>
+<div class="description"><u>A. Saviolo</u>, G. Loianno</div>
+<div class="description">
+  <a href="https://arxiv.org/pdf/2506.18689">Paper</a>
+  <a href="https://youtu.be/UpbcSKQrHfk">Video</a>
+</div>
+</li>
 
 <li>
 <div class="title">Reactive Collision Avoidance for Safe Agile Navigation</div>
@@ -48,6 +57,12 @@ For the latest list of publications, please visit my <a href="https://scholar.go
   <a href="https://youtu.be/qTZPzcUJg0s">Video</a>
 </div>
 </li>
+
+</ul>
+
+## 2024
+
+<ul style="list-style-type:square">
 
 <li>
 <div class="title">Learning Long-Horizon Predictions for Quadrotor Dynamics</div>
