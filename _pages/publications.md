@@ -42,7 +42,7 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 
 <li>
 <div class="title">Reactive Collision Avoidance for Safe Agile Navigation</div>
-<div class="description"><u>A. Saviolo</u>, N. Picello, R. Verma, G. Loianno</div>
+<div class="description"><u>A. Saviolo</u>, N. Picello, J. Mao, R. Verma, G. Loianno</div>
 <div class="description">
   <a href="https://www.arxiv.org/pdf/2409.11962">Paper</a>
   <a href="https://youtu.be/pUiWym4NsvA">Video</a>
