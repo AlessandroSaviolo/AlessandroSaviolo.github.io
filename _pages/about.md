@@ -33,27 +33,33 @@ div.description {
 </head>
 
 # Welcome!
+<p>I am a Ph.D. candidate at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL), New York University, advised by Prof. <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Giuseppe Loianno</a>.  
+My research focuses on pushing autonomous quadrotors to operate at high speed in unknown, unstructured environments.  
+The central theme of my dissertation, <i>Adaptive and Reactive Aerial Autonomy</i>, is that the assumptions underlying most autonomy stacks break down in the real world. My work challenges these assumptions and provides scalable alternatives that enable reliable autonomy in the wild.</p>
 
-<p>I am currently pursuing my Ph.D. at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL) at New York University, under the guidance of Prof. <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Giuseppe Loianno</a>. 
-My research focuses on developing adaptive control systems for autonomous robots, integrating deep learning with control theory to solve real-world challenges. I hold Bachelor's and Master's degrees in Computer Engineering from the University of Padova, with research experience at the Robotics and Perception Group in Zurich and industry experience as a software engineer at Flexsight.</p>
+## Breaking Three Assumptions
 
-## Research
-### Reactive Collision Avoidance
-<img src="/images/reactive_collision_avoidance.gif" alt="Quadrotor navigating through obstacles using real-time reactive collision avoidance framework" style="width:100%">
-<p>In dynamic environments, real-time collision avoidance is essential for safe robot navigation. Our framework integrates perception, planning, and control, using monocular depth estimation (MDE) to refine noisy RGB-D data in real-time. With nonlinear model predictive control (NMPC) and adaptive control barrier functions (CBFs), the system reacts to high-risk collision points in milliseconds, enabling agile navigation without prior tuning. Extensive tests show its ability to generalize across unknown environments, ensuring safe, real-time flight.</p>
+### **Fixed Dynamics Models**
+<img src="/images/dynamics_learning.gif" alt="Adaptive dynamics learning in flight" style="width:100%">
+<p>Most controllers assume the system dynamics are fixed, identified offline, and valid everywhere.  
+I show this assumption fails under varying aerodynamics, external disturbances, and damage.  
+**Contribution:** A hybrid physics–informed neural network with online adaptation that continuously refines the dynamics model in real time, feeding an uncertainty-aware NMPC for robust performance.</p>
 
-### Dynamics Learning
-<img src="/images/dynamics_learning.gif" alt="By combining online learning with uncertainty-aware model predictive control, the learned dynamics actively adapt to multiple challenging operating conditions, enabling unprecedented flight control." style="width:100%">
-<p>Model-based control needs an accurate system dynamics model to safely and precisely control robots in complex environments. This model should adapt to changing conditions. Our research introduces a self-supervised learning method that actively models nonlinear robotic systems' dynamics. We combine offline learning from past data and online learning from current interactions, making the process highly sample-efficient and adaptive. We also design an uncertainty-aware model predictive controller that considers data uncertainty to choose optimal control actions, improving both performance and learning efficiency.</p>
+### **Maps Before Action**
+<img src="/images/reactive_collision_avoidance.gif" alt="Reactive avoidance without mapping" style="width:100%">
+<p>Conventional autonomy relies on explicit mapping before planning, which is too slow and brittle in cluttered or dynamic settings.  
+**Contribution:** A perception–control pipeline that bypasses mapping, combining real-time depth completion with control barrier–function NMPC. This allows split-second reactive collision avoidance and safe flight without precomputed maps.</p>
 
-### Visual Tracking
-<img src="/images/visual_tracking.gif" alt="Demonstrating our system's ability to detect, track, and navigate toward a running moving target in challenging outdoor environments." style="width:100%">
-<p>Visual control allows quadrotors to navigate using real-time sensory data, but challenges like generalization, reliability, and real-time response remain. Our research addresses these issues with a new perception framework using foundation models for universal object detection and tracking. This framework, combined with a multi-layered tracker, ensures continuous target visibility despite motion blur, light changes, and occlusions. We also introduce a model-free visual controller for resilient tracking. Our system works efficiently with limited hardware, using only an onboard camera and an inertial measurement unit.</p>
+### **Global Position is Necessary**
+<img src="/images/visual_tracking.gif" alt="Tracking and navigation without global position" style="width:100%">
+<p>Most navigation stacks assume access to global position (GPS, motion capture, or accurate SLAM). These signals are often unreliable or unavailable outdoors under occlusions or indoors without infrastructure.  
+**Contribution:** A local-frame, instantaneous relative navigation method that discards global horizontal position and absolute yaw. The quadrotor navigates and tracks targets using only relative perception, inertial sensing, and onboard computation.</p>
 
-### Perpetual Autonomy
-<img src="/images/perpetual_autonomy.gif" alt="AutoCharge, an autonomous charging system for quadrotors that is capable of universal, highly efficient, and robust charging." style="width:100%">
-<p>Battery endurance is a major challenge for long-term autonomy and long-range aerial robot operations. Our solution, AutoCharge, addresses this with an autonomous charging system for quadrotors. AutoCharge combines a portable ground station with a lightweight, flexible charging tether for universal, efficient, and robust charging. We designed circular magnetic connectors for precise, orientation-agnostic connections between the ground station and tether. An electromagnet on the ground station increases tolerance to localization and control errors during docking, ensuring smooth undocking after charging.</p>
+## Broader Vision
+<p>Together, these contributions form a new paradigm for **agile aerial autonomy**: adaptive, reactive, and relative.  
+This work has been validated in forest trails, urban mazes, and military-grade test sites, advancing both the scientific understanding of autonomous flight and its deployment in real-world applications such as search and rescue, surveillance, and human–robot teaming.</p>
 
+## Latest News
 ## Latest News
 <p class="aboutme">
 <ul style="list-style-type:square">
