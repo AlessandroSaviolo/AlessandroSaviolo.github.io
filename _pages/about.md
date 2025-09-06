@@ -34,7 +34,7 @@ div.description {
 
 # Welcome!
 <p>I am a Ph.D. candidate at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL), New York University, advised by Prof. <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Giuseppe Loianno</a>.  
-My research focuses on enabling quadrotors to fly **fast, safely, and reliably in environments that are unknown, cluttered, and unstructured**.  
+My research focuses on enabling quadrotors to fly fast, safely, and reliably in environments that are unknown, cluttered, and unstructured.  
 The central theme of my dissertation, <i>Adaptive and Reactive Aerial Autonomy</i>, is that the assumptions underlying most autonomy stacks break down in practice. My work explicitly challenges these assumptions and provides scalable, real-time alternatives that work in the wild</p>
 
 ## Breaking Three Assumptions
