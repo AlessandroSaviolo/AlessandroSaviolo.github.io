@@ -30,7 +30,7 @@ div.description {
 ## Advised Students
 
 <p class="collaboration"><ul style="list-style-type:square">
-  <li style="line-height: 50%;"><span style="float:left;"><b>Sourabh Misal</b></span><span style="float:right;">Sep 2024 - Ongoing</span></li>
+  <li style="line-height: 50%;"><span style="float:left;"><b>Sourabh Misal</b></span><span style="float:right;">Sep 2024 - April 2025</span></li>
   <li style="list-style: none;">Fast Motion Estimation for Visual Navigation</li>
 </ul></p>
 <p class="collaboration"><ul style="list-style-type:square">
