@@ -34,30 +34,29 @@ div.description {
 
 # Welcome!
 <p>I am a Ph.D. candidate at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL), New York University, advised by Prof. <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Giuseppe Loianno</a>.  
-My research focuses on pushing autonomous quadrotors to operate at high speed in unknown, unstructured environments.  
-The central theme of my dissertation, <i>Adaptive and Reactive Aerial Autonomy</i>, is that the assumptions underlying most autonomy stacks break down in the real world. My work challenges these assumptions and provides scalable alternatives that enable reliable autonomy in the wild.</p>
+My research focuses on enabling quadrotors to fly **fast, safely, and reliably in environments that are unknown, cluttered, and unstructured**.  
+The central theme of my dissertation, <i>Adaptive and Reactive Aerial Autonomy</i>, is that the assumptions underlying most autonomy stacks break down in practice. My work explicitly challenges these assumptions and provides scalable, real-time alternatives that work in the wild</p>
 
 ## Breaking Three Assumptions
 
 ### **Fixed Dynamics Models**
 <img src="/images/dynamics_learning.gif" alt="Adaptive dynamics learning in flight" style="width:100%">
-<p>Most controllers assume the system dynamics are fixed, identified offline, and valid everywhere.  
-I show this assumption fails under varying aerodynamics, external disturbances, and damage.  
-**Contribution:** A hybrid physics–informed neural network with online adaptation that continuously refines the dynamics model in real time, feeding an uncertainty-aware NMPC for robust performance.</p>
+<p>Traditional control pipelines assume the robot’s dynamics can be modeled once offline and then trusted during operation. In reality, factors such as unmodeled aerodynamics, wind gusts, payload changes, and even minor damage can quickly invalidate these models.  
+**Contribution:** I develop a hybrid physics–informed neural network with <b>online adaptation</b>, which continuously refines the model in real time. This feeds into an uncertainty-aware NMPC that accounts for model confidence. The result is agile, stable flight even as conditions evolve, without the need for re-tuning or human intervention.</p>
 
 ### **Maps Before Action**
 <img src="/images/reactive_collision_avoidance.gif" alt="Reactive avoidance without mapping" style="width:100%">
-<p>Conventional autonomy relies on explicit mapping before planning, which is too slow and brittle in cluttered or dynamic settings.  
-**Contribution:** A perception–control pipeline that bypasses mapping, combining real-time depth completion with control barrier–function NMPC. This allows split-second reactive collision avoidance and safe flight without precomputed maps.</p>
+<p>Most autonomy frameworks build a map first and then plan within it. While effective in structured spaces, this approach is too slow and brittle in dense forests, narrow passages, or dynamic settings.  
+**Contribution:** I propose a perception–control loop that bypasses mapping entirely. By completing sparse depth in real time and embedding <b>control barrier functions</b> within an NMPC, the system reacts to collision risks at millisecond timescales. This enables split-second maneuvers and safe navigation where conventional pipelines fail, proving that high-speed flight without explicit mapping is not only possible but more robust.</p>
 
 ### **Global Position is Necessary**
 <img src="/images/visual_tracking.gif" alt="Tracking and navigation without global position" style="width:100%">
-<p>Most navigation stacks assume access to global position (GPS, motion capture, or accurate SLAM). These signals are often unreliable or unavailable outdoors under occlusions or indoors without infrastructure.  
-**Contribution:** A local-frame, instantaneous relative navigation method that discards global horizontal position and absolute yaw. The quadrotor navigates and tracks targets using only relative perception, inertial sensing, and onboard computation.</p>
+<p>Navigation is often framed around global references: GPS, motion capture, or high-quality VIO/SLAM. But outdoors under tree cover, indoors without infrastructure, or in adversarial conditions, these signals are unreliable or unavailable.  
+**Contribution:** I introduce a <b>local-frame instantaneous relative navigation</b> method that discards global horizontal position and absolute yaw entirely. The quadrotor navigates and tracks using only relative perception and onboard inertial sensing, enabling reliable pursuit and coordination even when global positioning fails.</p>
 
 ## Broader Vision
-<p>Together, these contributions form a new paradigm for **agile aerial autonomy**: adaptive, reactive, and relative.  
-This work has been validated in forest trails, urban mazes, and military-grade test sites, advancing both the scientific understanding of autonomous flight and its deployment in real-world applications such as search and rescue, surveillance, and human–robot teaming.</p>
+<p>Together, these three threads converge toward a new paradigm for **aerial autonomy at the edge of feasibility**: adaptive (dynamics learned and refined online), reactive (decisions made without explicit maps), and relative (navigation independent of global references).  
+This framework has been validated across forest trails, urban mazes, container compounds, and military-grade test sites, advancing both the scientific foundation and the operational deployment of agile aerial robots. Applications include high-speed search and rescue, persistent surveillance, and resilient human–robot teaming in the field.</p>
 
 ## Latest News
 ## Latest News
