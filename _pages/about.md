@@ -39,20 +39,20 @@ The central theme of my dissertation is that three common assumptions in aerial 
 
 ## Breaking Three Assumptions
 
-### **Dynamics are constant and known**
+### **Dynamics are fixed and known**
 <img src="/images/dynamics_learning.gif" alt="Adaptive dynamics learning in flight" style="width:100%">
 <p>Traditional control pipelines assume the robot’s dynamics can be modeled once offline and then trusted during operation. In reality, factors such as unmodeled aerodynamics, wind gusts, payload changes, and even minor damage can quickly invalidate these models.  
-**Contribution:** I develop a hybrid physics–informed neural network with <b>online adaptation</b>, which continuously refines the model in real time. This feeds into an uncertainty-aware NMPC that accounts for model confidence. The result is agile, stable flight even as conditions evolve, without the need for re-tuning or human intervention.</p>
+I developed a hybrid physics–informed neural network with <b>online adaptation</b>, which continuously refines the model in real time. This feeds into an uncertainty-aware NMPC that accounts for model confidence. The result is agile, stable flight even as conditions evolve, without the need for re-tuning or human intervention.</p>
 
-### **Obstacle maps are reliable and up to date**
+### **Maps are complete and reliable**
 <img src="/images/reactive_collision_avoidance.gif" alt="Reactive avoidance without mapping" style="width:100%">
 <p>Most autonomy frameworks build a map first and then plan within it. While effective in structured spaces, this approach is too slow and brittle in dense forests, narrow passages, or dynamic settings.  
-**Contribution:** I propose a perception–control loop that bypasses mapping entirely. By completing sparse depth in real time and embedding <b>control barrier functions</b> within an NMPC, the system reacts to collision risks at millisecond timescales. This enables split-second maneuvers and safe navigation where conventional pipelines fail, proving that high-speed flight without explicit mapping is not only possible but more robust.</p>
+I proposed a perception–control loop that bypasses mapping entirely. By completing sparse depth in real time and embedding <b>control barrier functions</b> within an NMPC, the system reacts to collision risks at millisecond timescales. This enables split-second maneuvers and safe navigation where conventional pipelines fail, proving that high-speed flight without explicit mapping is not only possible but more robust.</p>
 
-### **Global positioning is available**
+### **Global positioning is always available**
 <img src="/images/visual_tracking.gif" alt="Tracking and navigation without global position" style="width:100%">
 <p>Navigation is often framed around global references: GPS, motion capture, or high-quality VIO/SLAM. But outdoors under tree cover, indoors without infrastructure, or in adversarial conditions, these signals are unreliable or unavailable.  
-**Contribution:** I introduce a <b>local-frame instantaneous relative navigation</b> method that discards global horizontal position and absolute yaw entirely. The quadrotor navigates and tracks using only relative perception and onboard inertial sensing, enabling reliable pursuit and coordination even when global positioning fails.</p>
+I introduced a <b>local-frame instantaneous relative navigation</b> method that discards global horizontal position and absolute yaw entirely. The quadrotor navigates and tracks using only relative perception and onboard inertial sensing, enabling reliable pursuit and coordination even when global positioning fails.</p>
 
 ## Broader Vision
 <p>Together, these three threads converge toward a new paradigm for **aerial autonomy at the edge of feasibility**: adaptive (dynamics learned and refined online), reactive (decisions made without explicit maps), and relative (navigation independent of global references).  
