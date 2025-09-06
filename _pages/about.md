@@ -55,7 +55,7 @@ I proposed a perception–control loop that bypasses mapping entirely. By comple
 I introduced a <b>local-frame instantaneous relative navigation</b> method that discards global horizontal position and absolute yaw entirely. The quadrotor navigates and tracks using only relative perception and onboard inertial sensing, enabling reliable pursuit and coordination even when global positioning fails.</p>
 
 ## Broader Vision
-<p>Together, these three threads converge toward a new paradigm for **aerial autonomy at the edge of feasibility**: adaptive (dynamics learned and refined online), reactive (decisions made without explicit maps), and relative (navigation independent of global references).  
+<p>Together, these three contributions converge toward a new paradigm for aerial autonomy: adaptive (dynamics learned and refined online), reactive (decisions made without explicit maps), and relative (navigation independent of global references).
 This framework has been validated across forest trails, urban mazes, container compounds, and military-grade test sites, advancing both the scientific foundation and the operational deployment of agile aerial robots. Applications include high-speed search and rescue, persistent surveillance, and resilient human–robot teaming in the field.</p>
 
 ## Latest News
