@@ -59,7 +59,6 @@ The central theme of my dissertation, <i>Adaptive and Reactive Aerial Autonomy</
 This framework has been validated across forest trails, urban mazes, container compounds, and military-grade test sites, advancing both the scientific foundation and the operational deployment of agile aerial robots. Applications include high-speed search and rescue, persistent surveillance, and resilient human–robot teaming in the field.</p>
 
 ## Latest News
-## Latest News
 <p class="aboutme">
 <ul style="list-style-type:square">
   <li><b>May, 2025</b>. Will present in person at ICRA 2025 conference in Atlanta ✈️</li>
