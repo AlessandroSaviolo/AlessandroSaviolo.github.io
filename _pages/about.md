@@ -39,7 +39,10 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at New York Univer
 
 # Research
 <p>
-Autonomous drones are becoming indispensable in critical missions such as search and rescue and disaster response. Yet today’s systems still require expert human pilots because autonomy fails where it matters most: in complex, GPS-denied, and rapidly changing environments. GPS signals vanish, maps become outdated, and controllers tuned in the lab collapse when conditions shift. During my PhD, I rebuilt the autonomy stack around a simple premise: enable safe and agile flight by removing assumptions about operating conditions, environment maps, and external infrastructure, and instead grounding navigation in adaptation, reactivity, and direct onboard sensing.
+  Autonomous drones are becoming indispensable in critical missions such as search and rescue and disaster response. Yet today’s systems still require expert human pilots because autonomy fails where it matters most: in complex, GPS-denied, and rapidly changing environments. GPS signals vanish, maps become outdated, and controllers tuned in the lab collapse when conditions shift. During my PhD, I rebuilt the autonomy stack around a simple premise: 
+  <i>
+  enable safe and agile flight by removing assumptions about operating conditions, environment maps, and external infrastructure, and instead grounding navigation in adaptation, reactivity, and direct onboard sensing.
+  </i>
 </p>
 
 <div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
