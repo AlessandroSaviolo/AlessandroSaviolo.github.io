@@ -43,7 +43,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at New York Univer
 </p>
 <div style="text-align:center; margin:20px 0;">
   <i>
-    enable safe and agile flight by removing assumptions about operating conditions, environment maps, and external infrastructure, and instead grounding navigation in adaptation, reactivity, and direct onboard sensing.
+    enable safe and agile flight in completely unknown environments by grounding navigation in adaptation, reactivity, and direct onboard sensing.
   </i>
 </div>
 
