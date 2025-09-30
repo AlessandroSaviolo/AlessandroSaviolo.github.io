@@ -44,9 +44,10 @@ Autonomous drones are becoming indispensable in critical missions such as search
 
 <div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
   <div style="flex:1;">
-    <img src="/images/dynamics_learning.mp4" 
-         alt="Adaptive dynamics learning in flight" 
-         style="width:100%; max-width:400px; height:auto;">
+    <video autoplay loop muted playsinline style="width:100%; max-width:400px; height:auto;">
+      <source src="/images/dynamics_learning.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
   </div>
   <div style="flex:2;">
     <p><b>Adaptive dynamics and control.</b> 
