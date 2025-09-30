@@ -58,15 +58,15 @@ Autonomous drones are becoming indispensable in critical missions such as search
 
 <div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
   <div style="flex:1;">
-    <p><b>Reactive collision avoidance</b>. 
-    Accurate dynamics provide the foundation for stable flight, but they are not enough to guarantee safety if the map is outdated. In dynamic cluttered environments, maps degrade the moment they are built, leaving the vehicle at risk of collision. To overcome this, I replaced the conventional map–plan–track loop with a reactive collision avoidance strategy that ensures safety directly from perception-driven constraints. Sparse stereo depth is completed with monocular cues and aligned in scale to recover dense geometry. From this, the system estimates time-to-collision and selects only the most critical points, which are then injected as control barrier function constraints inside the controller. These constraints are updated at every perception cycle, giving the quadrotor the ability to react instantly to obstacles. The result is an architecture that is interpretable, computationally efficient, and fast: a vehicle that can weave through dense forests and cluttered compounds while guaranteeing safety in real time without ever building a map.
-    </p>
-  </div>
-  <div style="flex:2;">
     <video autoplay loop muted playsinline style="width:100%; max-width:400px; height:auto;">
       <source src="/images/reactive_collision_avoidance.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
+  </div>
+  <div style="flex:2;">
+    <p><b>Reactive collision avoidance</b>. 
+    Accurate dynamics provide the foundation for stable flight, but they are not enough to guarantee safety if the map is outdated. In dynamic cluttered environments, maps degrade the moment they are built, leaving the vehicle at risk of collision. To overcome this, I replaced the conventional map–plan–track loop with a reactive collision avoidance strategy that ensures safety directly from perception-driven constraints. Sparse stereo depth is completed with monocular cues and aligned in scale to recover dense geometry. From this, the system estimates time-to-collision and selects only the most critical points, which are then injected as control barrier function constraints inside the controller. These constraints are updated at every perception cycle, giving the quadrotor the ability to react instantly to obstacles. The result is an architecture that is interpretable, computationally efficient, and fast: a vehicle that can weave through dense forests and cluttered compounds while guaranteeing safety in real time without ever building a map.
+    </p>
   </div>
 </div>
 
@@ -79,7 +79,7 @@ Autonomous drones are becoming indispensable in critical missions such as search
   </div>
   <div style="flex:2;">
     <p><b>Instantaneous relative navigation</b>. 
-    Even with accurate dynamics and reactive collision avoidance, autonomy ultimately fails if localization drifts. In GPS-denied flight, global horizontal position and yaw are unobservable, which causes objectives defined in a world frame to collapse over time. My solution was to abandon the global frame altogether and introduce instantaneous relative navigation. Instead of relying on absolute position, the vehicle fixes its frame to gravity, and plans only from directly observable quantities such as attitude, altitude, velocity, and objects in view. In search mode, this allows the quadrotor to traverse unknown environments without accumulating drift. Once a target is detected, the frame is anchored to it, and the system transitions seamlessly into pursuit. In large-scale field trials, the vehicle tracked ground targets at more than 90 km/h and 60° pitch angles, consistently reacquiring them even under intermittent detections and degraded sensing.
+    Even with adaptation and reactivity, any autonomy stack ultimately fails if localization drifts. In GPS-denied flight, global horizontal position and yaw are unobservable, which causes objectives defined in a world frame to collapse over time. My solution was to abandon the global frame altogether and introduce instantaneous relative navigation. Instead of relying on absolute position, the vehicle fixes its frame to gravity, and plans only from directly observable quantities such as attitude, altitude, velocity, and objects in view. In search mode, this allows the quadrotor to traverse unknown environments without accumulating drift. Once a target is detected, the frame is anchored to it, and the system transitions seamlessly into pursuit. In large-scale field trials, the vehicle tracked ground targets at more than 90 km/h and 60° pitch angles, consistently reacquiring them even under intermittent detections and degraded sensing.
     </p>
   </div>
 </div>
