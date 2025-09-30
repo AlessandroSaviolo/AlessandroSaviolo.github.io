@@ -34,7 +34,7 @@ div.description {
 
 # Welcome!
 <p>
-I am a PhD candidate in Electrical and Computer Engineering at New York University (NYU), where I work in the Agile Robotics and Perception Lab (ARPL). I am passionate about building autonomous systems that operate safely and reliably in the real world. My work focuses on perception and optimal control for high-speed navigation in complex, GPS-denied environments, with an emphasis on rapid adaptation and robust generalization across diverse conditions. Before starting my PhD, I studied computer engineering in Padova with research experiences in Taiwan and Switzerland, and worked as a research engineer at FlexSight on autonomous navigation for agricultural and medical robots. My research has been validated through DARPA and Army Research Lab field trials, published in leading IEEE venues, and resulted in multiple journal articles and U.S. patents.
+I am a Ph.D. candidate in Electrical and Computer Engineering at New York University (NYU), where I work in the Agile Robotics and Perception Lab (ARPL). I am passionate about building autonomous systems that operate safely and reliably in the real world. My work focuses on perception and optimal control for high-speed navigation in complex, GPS-denied environments, with an emphasis on rapid adaptation and robust generalization across diverse conditions. Before starting my PhD, I studied computer engineering in Padova with research experiences in Taiwan and Switzerland, and worked as a research engineer at FlexSight on autonomous navigation for agricultural and medical robots. My research has been validated through DARPA and Army Research Lab field trials, published in leading IEEE venues, and resulted in multiple journal articles and U.S. patents.
 </p>
 
 # Research
