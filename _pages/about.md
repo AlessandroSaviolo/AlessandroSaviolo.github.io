@@ -50,23 +50,39 @@ Autonomous drones are becoming indispensable in critical missions such as search
     </video>
   </div>
   <div style="flex:2;">
-    <p><b>Adaptive dynamics and control.</b> 
+    <p><b>Adaptive dynamics and control</b>.
     Quadrotor dynamics change continuously with wind, payload variations, and hardware wear. These effects are difficult to capture with traditional physics-based models that assume fixed and known conditions. The first step in my research was to remove this assumption and design a system that learns and adapts its dynamics online. I developed a physics-informed model that corrects itself in real time from prediction errors, allowing the controller to remain accurate as conditions evolve. To further accelerate learning, I introduced an uncertainty-aware strategy that guides the controller toward regions of the state space that are most informative, producing more stable gradients and faster adaptation. As a result, the vehicle can stabilize within seconds, even when carrying a 30 percent heavier payload, flying with swapped propellers, or facing strong gusts of wind.
     </p>
   </div>
 </div>
 
-<img src="/images/reactive_collision_avoidance.gif" alt="Reactive avoidance without mapping" style="width:100%">
-<p>
-<b>Reactive collision avoidance</b>. 
-Accurate and adaptive dynamics provide the foundation for stable flight, but they are not enough to guarantee safety if the map is outdated. In fast-changing or cluttered environments, maps degrade the moment they are built, leaving the vehicle at risk of collision. To overcome this, I replaced the conventional map–plan–track loop with a reactive collision-avoidance strategy that ensures safety directly from perception. Sparse stereo depth is completed with monocular cues and aligned in scale to recover dense geometry. From this, the system estimates time-to-collision and selects only the most critical points, which are then injected as control barrier function constraints inside the controller. These constraints are updated at every perception cycle and enforced alongside the adaptive dynamics, giving the quadrotor the ability to react instantly to obstacles. The result is an architecture that is interpretable, computationally efficient, and fast: a vehicle that can weave through dense forests and cluttered compounds while guaranteeing safety in real time without ever building a map.
-</p>
+<div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
+  <div style="flex:1;">
+    <video autoplay loop muted playsinline style="width:100%; max-width:400px; height:auto;">
+      <source src="/images/reactive_collision_avoidance.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div style="flex:2;">
+    <p><b>Reactive collision avoidance</b>. 
+    Accurate and adaptive dynamics provide the foundation for stable flight, but they are not enough to guarantee safety if the map is outdated. In fast-changing or cluttered environments, maps degrade the moment they are built, leaving the vehicle at risk of collision. To overcome this, I replaced the conventional map–plan–track loop with a reactive collision-avoidance strategy that ensures safety directly from perception. Sparse stereo depth is completed with monocular cues and aligned in scale to recover dense geometry. From this, the system estimates time-to-collision and selects only the most critical points, which are then injected as control barrier function constraints inside the controller. These constraints are updated at every perception cycle and enforced alongside the adaptive dynamics, giving the quadrotor the ability to react instantly to obstacles. The result is an architecture that is interpretable, computationally efficient, and fast: a vehicle that can weave through dense forests and cluttered compounds while guaranteeing safety in real time without ever building a map.
+    </p>
+  </div>
+</div>
 
-<img src="/images/visual_tracking.gif" alt="Tracking and navigation without global position" style="width:100%">
-<p>
-<b>Instantaneous relative navigation</b>. 
-Even with adaptive dynamics and reactive collision avoidance, autonomy ultimately fails if localization drifts. In GPS-denied flight, global horizontal position and yaw are unobservable, which causes objectives defined in a world frame to collapse over time. My solution was to abandon the global frame altogether and introduce instantaneous relative navigation. Instead of relying on absolute position, the vehicle fixes its frame to gravity and its initial heading, and plans only from directly observable quantities such as attitude, altitude, velocity, and objects in view. In search mode, this allows the quadrotor to loiter and traverse unknown environments without accumulating drift. Once a target is detected, the frame is anchored to it, and the system transitions seamlessly into pursuit while preserving the same obstacle-avoidance guarantees. In large-scale field trials, the vehicle tracked ground targets at more than 90 kilometers per hour and 60 degree pitch angles, consistently reacquiring them even under intermittent detections and degraded sensing.
-</p>
+<div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
+  <div style="flex:1;">
+    <video autoplay loop muted playsinline style="width:100%; max-width:400px; height:auto;">
+      <source src="/images/visual_tracking.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div style="flex:2;">
+    <p><b>Instantaneous relative navigation</b>. 
+    Even with adaptive dynamics and reactive collision avoidance, autonomy ultimately fails if localization drifts. In GPS-denied flight, global horizontal position and yaw are unobservable, which causes objectives defined in a world frame to collapse over time. My solution was to abandon the global frame altogether and introduce instantaneous relative navigation. Instead of relying on absolute position, the vehicle fixes its frame to gravity and its initial heading, and plans only from directly observable quantities such as attitude, altitude, velocity, and objects in view. In search mode, this allows the quadrotor to loiter and traverse unknown environments without accumulating drift. Once a target is detected, the frame is anchored to it, and the system transitions seamlessly into pursuit while preserving the same obstacle-avoidance guarantees. In large-scale field trials, the vehicle tracked ground targets at more than 90 kilometers per hour and 60 degree pitch angles, consistently reacquiring them even under intermittent detections and degraded sensing.
+    </p>
+  </div>
+</div>
 
 <p>
 Together, these advances form an autonomy stack that is adaptive, reactive, and relative. By continuously updating its dynamics, guaranteeing safety directly from perception, and navigating without reliance on global references, the system achieves reliable high-speed flight in environments where traditional pipelines fail. Validated on embedded compute in forests and urban compounds, my PhD research demonstrates that safe and agile autonomy is not just possible in controlled settings but deployable in the real world.
