@@ -32,6 +32,15 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <ul style="list-style-type:square">
 
 <li>
+<div class="title">HUNT: High-Speed UAV Navigation and Tracking in Unstructured Environments via Instantaneous Relative Frames</div>
+<div class="description"><u>A. Saviolo</u>, J. Mao, G. Loianno</div>
+<div class="description">
+  <a href="https://arxiv.org/pdf/2509.19452">Paper</a>
+  <a href="https://youtu.be/YsSflqPPHhs">Video</a>
+</div>
+</li>
+
+<li>
 <div class="title">NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments</div>
 <div class="description"><u>A. Saviolo</u>, G. Loianno</div>
 <div class="description">
