@@ -57,16 +57,16 @@ Autonomous drones are becoming indispensable in critical missions such as search
 </div>
 
 <div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
+  <div style="flex:2;">
+    <p><b>Reactive collision avoidance</b>. 
+    Accurate dynamics provide the foundation for stable flight, but they are not enough to guarantee safety if the map is outdated. In dynamic cluttered environments, maps degrade the moment they are built, leaving the vehicle at risk of collision. To overcome this, I replaced the conventional map–plan–track loop with a reactive collision avoidance strategy that ensures safety directly from perception-driven constraints. Sparse stereo depth is completed with monocular cues and aligned in scale to recover dense geometry. From this, the system estimates time-to-collision and selects only the most critical points, which are then injected as control barrier function constraints inside the controller. These constraints are updated at every perception cycle, giving the quadrotor the ability to react instantly to obstacles. The result is an architecture that is interpretable, computationally efficient, and fast: a vehicle that can weave through dense forests and cluttered compounds while guaranteeing safety in real time without ever building a map.
+    </p>
+  </div>
   <div style="flex:1;">
     <video autoplay loop muted playsinline style="width:100%; max-width:400px; height:auto;">
       <source src="/images/reactive_collision_avoidance.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
-  </div>
-  <div style="flex:2;">
-    <p><b>Reactive collision avoidance</b>. 
-    Accurate dynamics provide the foundation for stable flight, but they are not enough to guarantee safety if the map is outdated. In dynamic cluttered environments, maps degrade the moment they are built, leaving the vehicle at risk of collision. To overcome this, I replaced the conventional map–plan–track loop with a reactive collision avoidance strategy that ensures safety directly from perception-driven constraints. Sparse stereo depth is completed with monocular cues and aligned in scale to recover dense geometry. From this, the system estimates time-to-collision and selects only the most critical points, which are then injected as control barrier function constraints inside the controller. These constraints are updated at every perception cycle, giving the quadrotor the ability to react instantly to obstacles. The result is an architecture that is interpretable, computationally efficient, and fast: a vehicle that can weave through dense forests and cluttered compounds while guaranteeing safety in real time without ever building a map.
-    </p>
   </div>
 </div>
 
