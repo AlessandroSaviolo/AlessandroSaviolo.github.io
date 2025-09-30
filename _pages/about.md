@@ -43,6 +43,7 @@ Autonomous drones are becoming indispensable in critical missions such as search
 </p>
 
 <p>
+**Adaptive dynamics and control**.
 Quadrotor dynamics change continuously with wind, payload variations, and hardware wear. These effects are difficult to capture with traditional physics-based models that assume fixed and known conditions. The first step in my research was to remove this assumption and design a system that learns and adapts its dynamics online. I developed a physics-informed model that corrects itself in real time from prediction errors, allowing the controller to remain accurate as conditions evolve. To further accelerate learning, I introduced an uncertainty-aware strategy that guides the controller toward regions of the state space that are most informative, producing more stable gradients and faster adaptation. As a result, the vehicle can stabilize within seconds, even when carrying a 30 percent heavier payload, flying with swapped propellers, or facing strong gusts of wind.
 </p>
 <img src="/images/dynamics_learning.gif" alt="Adaptive dynamics learning in flight" style="width:100%">
