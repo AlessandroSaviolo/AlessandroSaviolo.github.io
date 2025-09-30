@@ -6,8 +6,8 @@ main:
 - title: "Publications"
   url: /publications/
 
-- title: "Collaboration"
-  url: /collaboration/
+#  - title: "Collaboration"
+#    url: /collaboration/
     
 #  - title: "Resume"
 #    url: /files/resume.pdf
