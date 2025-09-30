@@ -44,7 +44,7 @@ Autonomous drones are becoming indispensable in critical missions such as search
 
 <div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
   <div style="flex:1;">
-    <img src="/images/dynamics_learning.gif" 
+    <img src="/images/dynamics_learning.mp4" 
          alt="Adaptive dynamics learning in flight" 
          style="width:100%; max-width:400px; height:auto;">
   </div>
