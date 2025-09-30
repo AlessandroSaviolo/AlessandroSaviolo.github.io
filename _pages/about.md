@@ -61,7 +61,7 @@ Even with adaptive dynamics and reactive collision avoidance, autonomy ultimatel
 </p>
 
 <p>
-Together, these advances form an autonomy stack that is adaptive, reactive, and relative. By continuously updating its dynamics, guaranteeing safety directly from perception, and navigating without reliance on global references, the system achieves reliable high-speed flight in environments where traditional pipelines fail. Validated on embedded compute in forests, urban compounds, and DARPA field campaigns, this work demonstrates that safe and agile autonomy is not just possible in controlled settings but deployable in the real world.
+Together, these advances form an autonomy stack that is adaptive, reactive, and relative. By continuously updating its dynamics, guaranteeing safety directly from perception, and navigating without reliance on global references, the system achieves reliable high-speed flight in environments where traditional pipelines fail. Validated on embedded compute in forests and urban compounds, my PhD research demonstrates that safe and agile autonomy is not just possible in controlled settings but deployable in the real world.
 </p>
 
 ## Latest News
