@@ -33,9 +33,9 @@ div.description {
 </head>
 
 # Welcome!
-<p>I am a Ph.D. candidate at the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL), New York University, advised by Prof. <a href="https://engineering.nyu.edu/faculty/giuseppe-loianno">Giuseppe Loianno</a>.  
-My research focuses on enabling quadrotors to fly fast, safely, and reliably in environments that are unknown, cluttered, and unstructured.  
-The central theme of my dissertation is that three common assumptions in aerial robotics—fixed dynamics models, map-based planning, and reliance on global position—break down in practice. My work challenges these assumptions and develops scalable, real-time alternatives that remain reliable and generalize in the wild.</p>
+<p>
+I am a PhD candidate in Electrical and Computer Engineering at New York University, where I work in the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL). My research focuses on enabling quadrotors to fly safely and aggressively in GPS-denied and unstructured environments by combining adaptation, perception, and control. Before starting my PhD, I studied computer engineering in Padova, with research experiences in Taiwan and Switzerland, and worked as a research engineer at FlexSight on autonomous navigation for agricultural and medical robots. My work has been validated through DARPA and Army Research Lab field trials, published in leading IEEE venues, and resulted in multiple journal articles and U.S. patents.
+</p>
 
 # Research
 <p>Autonomous drones are becoming indispensable in critical missions such as search and rescue and disaster response. Yet today’s systems still require expert human pilots because autonomy fails where it matters most: in complex, GPS-denied, and rapidly changing environments. GPS signals vanish, maps become outdated, and controllers tuned in the lab collapse when conditions shift. During my PhD, I rebuilt the autonomy stack around a simple premise: enable safe and agile flight by removing assumptions about operating conditions, environment maps, and external infrastructure, and instead grounding navigation in adaptation, reactivity, and direct onboard sensing.</p>
