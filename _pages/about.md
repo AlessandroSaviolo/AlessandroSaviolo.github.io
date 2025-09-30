@@ -34,7 +34,7 @@ div.description {
 
 # Welcome!
 <p>
-I am a PhD candidate in Electrical and Computer Engineering at New York University, where I work in the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL). My research focuses on enabling quadrotors to fly safely and aggressively in GPS-denied and unstructured environments by combining adaptation, perception, and control. Before starting my PhD, I studied computer engineering in Padova with research experiences in Taiwan and Switzerland, and worked as a research engineer at FlexSight on autonomous navigation for agricultural and medical robots. My work has been validated through DARPA and Army Research Lab field trials, published in leading IEEE venues, and resulted in multiple journal articles and U.S. patents.
+I am a PhD candidate in Electrical and Computer Engineering at New York University (NYU), where I work in the <a href="https://wp.nyu.edu/arpl/">Agile Robotics and Perception Lab</a> (ARPL). My research focuses on enabling quadrotors to fly safely and aggressively in GPS-denied and unstructured environments by combining adaptation, perception, and control. Before starting my PhD, I studied computer engineering in Padova with research experiences in Taiwan and Switzerland, and worked as a research engineer at FlexSight on autonomous navigation for agricultural and medical robots. My work has been validated through DARPA and Army Research Lab field trials, published in leading IEEE venues, and resulted in multiple journal articles and U.S. patents.
 </p>
 
 # Research
