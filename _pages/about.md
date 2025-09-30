@@ -94,15 +94,12 @@ Together, these advances form an autonomy stack that is adaptive, reactive, and 
   <li><b>May, 2025</b>. Will present in person at ICRA 2025 conference in Atlanta ✈️</li>
   <li><b>Jan, 2025</b>. <a href="https://arxiv.org/abs/2409.11962">Paper article</a> accepted at ICRA 2025 🦾</li>
   <li><b>Jan, 2025</b>. <a href="https://arxiv.org/abs/2409.17379">Paper article</a> accepted at ICRA 2025 🦾</li>
-  <li><b>May, 2024</b>. Will present in person at ICRA Agile Robotics workshop ✈️</li>
-  <li><b>May, 2024</b>. Will present in person at ICRA Aerial Robotics workshop ✈️</li>
   <li><b>May, 2024</b>. Will present in person at ICRA 2024 conference in Yokohama ✈️</li>
   <li><b>Jan, 2024</b>. <a href="https://arxiv.org/abs/2310.04781">Paper article</a> accepted at ICRA 2024 🦾</li>
   <li><b>Nov, 2023</b>. <a href="https://arxiv.org/abs/2210.12583">Journal article</a> accepted at Transactions on Robotics 2023 🦾</li>
   <li><b>Oct, 2023</b>. <a href="https://arxiv.org/abs/2310.04781">Paper article</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2">IEEE Spectrum</a> 📺</li>
   <li><b>Oct, 2023</b>. <a href="https://alessandrosaviolo.github.io/">Paper article</a> accepted at ICAR 2023 🦾</li>
   <li><b>Jun, 2023</b>. <a href="https://arxiv.org/abs/2306.05111">AutoCharge</a> featured on <a href="https://spectrum.ieee.org/video-friday-spot-levels-up">IEEE Spectrum</a> 📺</li>
-  <li><b>May, 2023</b>. Will present in person at ICRA Energy Efficient Aerial Robotics workshop ✈️</li>
   <li><b>May, 2023</b>. Will present in person at ICRA 2023 conference in London ✈️</li>
   <li><b>May, 2023</b>. Honored to have been awarded the Dr. Li Annual ECE Publication Award 🏆</li>
   <li><b>Mar, 2023</b>. <a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">Journal article</a> accepted at Annual Reviews in Control 2023 🦾</li>
