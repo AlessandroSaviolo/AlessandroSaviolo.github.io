@@ -45,7 +45,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at New York Univer
   </i>
 </p>
 
-<div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
+<div style="display:flex; align-items:center; gap:20px; margin:40px 0;">
   <div style="flex:1;">
     <video autoplay loop muted playsinline style="width:100%; max-width:400px; height:auto;">
       <source src="/images/dynamics_learning.mp4" type="video/mp4">
@@ -59,7 +59,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at New York Univer
   </div>
 </div>
 
-<div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
+<div style="display:flex; align-items:center; gap:20px; margin:40px 0;">
   <div style="flex:2;">
     <p><b>Reactive collision avoidance</b>. 
     Accurate dynamics provide the foundation for stable flight, but they are not enough to guarantee safety when maps quickly become outdated. In cluttered and rapidly changing environments, a map can be obsolete the moment it is built, leaving the vehicle exposed to collisions. To address this, I replaced the conventional map–plan–track pipeline with a reactive collision-avoidance strategy that enforces safety directly from perception. Raw stereo depth is densified with monocular depth estimation and scale alignment to recover reliable geometry. From this, the system computes time-to-collision and extracts only the most critical points, which are injected as control barrier function constraints into the controller. Updated at every perception cycle, these constraints allow the quadrotor to react instantly to obstacles while maintaining real-time performance.
@@ -73,7 +73,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at New York Univer
   </div>
 </div>
 
-<div style="display:flex; align-items:center; gap:20px; margin:20px 0;">
+<div style="display:flex; align-items:center; gap:20px; margin:40px 0;">
   <div style="flex:1;">
     <video autoplay loop muted playsinline style="width:100%; max-width:400px; height:auto;">
       <source src="/images/visual_tracking.mp4" type="video/mp4">
