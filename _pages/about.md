@@ -43,7 +43,7 @@ I am a Ph.D. candidate in Electrical and Computer Engineering at New York Univer
 </p>
 <div style="text-align:center; margin:20px 0;">
   <i>
-    enable safe and agile flight in completely unknown environments by grounding navigation in adaptation, reactivity, and direct onboard sensing.
+    Enabling safe and agile autonomy in unknown environments by adapting to shifting conditions, reacting instantly to obstacles, and relying only on what the robot can directly observe.
   </i>
 </div>
 
