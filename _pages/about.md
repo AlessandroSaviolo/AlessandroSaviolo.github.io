@@ -49,11 +49,13 @@ Quadrotor dynamics change continuously with wind, payload variations, and hardwa
 <img src="/images/dynamics_learning.gif" alt="Adaptive dynamics learning in flight" style="width:100%">
 
 <p>
+**Reactive collision avoidance**. 
 Accurate and adaptive dynamics provide the foundation for stable flight, but they are not enough to guarantee safety if the map is outdated. In fast-changing or cluttered environments, maps degrade the moment they are built, leaving the vehicle at risk of collision. To overcome this, I replaced the conventional map–plan–track loop with a reactive collision-avoidance strategy that ensures safety directly from perception. Sparse stereo depth is completed with monocular cues and aligned in scale to recover dense geometry. From this, the system estimates time-to-collision and selects only the most critical points, which are then injected as control barrier function constraints inside the controller. These constraints are updated at every perception cycle and enforced alongside the adaptive dynamics, giving the quadrotor the ability to react instantly to obstacles. The result is an architecture that is interpretable, computationally efficient, and fast: a vehicle that can weave through dense forests and cluttered compounds while guaranteeing safety in real time without ever building a global map.
 </p>
 <img src="/images/reactive_collision_avoidance.gif" alt="Reactive avoidance without mapping" style="width:100%">
 
 <p>
+**Instantaneous relative navigation**. 
 Even with adaptive dynamics and reactive collision avoidance, autonomy ultimately fails if localization drifts. In GPS-denied flight, global horizontal position and yaw are unobservable, which causes objectives defined in a world frame to collapse over time. My solution was to abandon the global frame altogether and introduce instantaneous relative navigation. Instead of relying on absolute position, the vehicle fixes its frame to gravity and its initial heading, and plans only from directly observable quantities such as attitude, altitude, velocity, and objects in view. In search mode, this allows the quadrotor to loiter and traverse unknown environments without accumulating drift. Once a target is detected, the frame is anchored to it, and the system transitions seamlessly into pursuit while preserving the same obstacle-avoidance guarantees. In large-scale field trials, the vehicle tracked ground targets at more than 90 kilometers per hour and 60 degree pitch angles, consistently reacquiring them even under intermittent detections and degraded sensing.
 </p>
 <img src="/images/visual_tracking.gif" alt="Tracking and navigation without global position" style="width:100%">
