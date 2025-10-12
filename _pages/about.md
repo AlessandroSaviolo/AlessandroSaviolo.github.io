@@ -37,7 +37,7 @@ div.description {
 I am a Senior Autonomy Engineer at Plus, where I work on advanced perception and control systems for autonomous vehicles. I recently completed my Ph.D. in Electrical and Computer Engineering at New York University, where I conducted research in the Agile Robotics and Perception Lab (ARPL). My work focuses on building autonomous systems that operate safely and reliably in the real world, with an emphasis on perception and optimal control for safe navigation in complex environments. Before my Ph.D., I studied computer engineering in Padova with research experiences in Taiwan and Switzerland, and worked as a research engineer at FlexSight, developing navigation systems for agricultural and medical robots. My research has been validated through DARPA and Army Research Lab field trials, published in leading IEEE venues, and resulted in multiple journal articles and U.S. patents.
 </p>
 
-## Research
+## PhD Research
 <p>
   Autonomous drones are becoming indispensable in critical missions such as search and rescue and disaster response. Yet today’s systems still require expert human pilots because autonomy fails where it matters most: in complex, GPS-denied, and rapidly changing environments. GPS signals vanish, maps become outdated, and controllers tuned in the lab collapse when conditions shift. During my PhD, I rebuilt the autonomy stack around a simple premise: 
 </p>
