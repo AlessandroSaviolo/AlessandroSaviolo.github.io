@@ -94,25 +94,36 @@ Together, these advances form an autonomy stack that is adaptive, reactive, and 
 </p>
 
 ## Latest News
-<p class="aboutme">
-<ul style="list-style-type:square">
-  <li><b>May, 2025</b>. Will present in person at ICRA 2025 conference in Atlanta ✈️</li>
-  <li><b>Jan, 2025</b>. <a href="https://arxiv.org/abs/2409.11962">Paper article</a> accepted at ICRA 2025 🦾</li>
-  <li><b>Jan, 2025</b>. <a href="https://arxiv.org/abs/2409.17379">Paper article</a> accepted at ICRA 2025 🦾</li>
-  <li><b>May, 2024</b>. Will present in person at ICRA 2024 conference in Yokohama ✈️</li>
-  <li><b>Jan, 2024</b>. <a href="https://arxiv.org/abs/2310.04781">Paper article</a> accepted at ICRA 2024 🦾</li>
-  <li><b>Nov, 2023</b>. <a href="https://arxiv.org/abs/2210.12583">Journal article</a> accepted at Transactions on Robotics 2023 🦾</li>
-  <li><b>Oct, 2023</b>. <a href="https://arxiv.org/abs/2310.04781">Paper article</a> featured on <a href="https://spectrum.ieee.org/video-friday-strandbeest-2">IEEE Spectrum</a> 📺</li>
-  <li><b>Oct, 2023</b>. <a href="https://alessandrosaviolo.github.io/">Paper article</a> accepted at ICAR 2023 🦾</li>
-  <li><b>Jun, 2023</b>. <a href="https://arxiv.org/abs/2306.05111">AutoCharge</a> featured on <a href="https://spectrum.ieee.org/video-friday-spot-levels-up">IEEE Spectrum</a> 📺</li>
-  <li><b>May, 2023</b>. Will present in person at ICRA 2023 conference in London ✈️</li>
-  <li><b>May, 2023</b>. Honored to have been awarded the Dr. Li Annual ECE Publication Award 🏆</li>
-  <li><b>Mar, 2023</b>. <a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">Journal article</a> accepted at Annual Reviews in Control 2023 🦾</li>
-  <li><b>Jan, 2023</b>. <a href="https://arxiv.org/abs/2306.05111">AutoCharge</a> and <a href="https://arxiv.org/abs/2303.08181">GaPT</a> accepted at ICRA 2023 conference 🦾🦾</li>
-  <li><b>Oct, 2022</b>. Will present virtually at IROS 2022 conference 📺</li>
-  <li><b>Jun, 2022</b>. <a href="https://alessandrosaviolo.github.io/PI-TCN/">PI-TCN</a> accepted at RAL+IROS 2022 🦾</li>
-  <li><b>May, 2022</b>. Will present in person at ICRA 2022 conference in Philadelphia ✈️</li>
-  <li><b>Jan, 2022</b>. <a href="https://alessandrosaviolo.github.io/Autotune/">AutoTune</a> accepted at RAL+ICRA 2022 🦾</li>
-  <li><b>Aug, 2021</b>. Joined Agile Robotics and Perception Lab 👨‍🎓</li>  
+<ul class="aboutme" style="list-style-type:square">
+  <li><b>Jan 2026</b> — Paper accepted at ICRA 2026  
+      (<a href="https://arxiv.org/pdf/2509.19452">arXiv</a>) 🦾</li>
+  <li><b>Nov 2025</b> — Journal paper accepted at Transactions on Field Robotics  
+      (<a href="https://arxiv.org/pdf/2506.18689">arXiv</a>) 🦾</li>
+  <li><b>Oct 2025</b> — Joined <a href="https://plus.ai/">PlusAI</a></li>
+  <li><b>Oct 2025</b> — PhD defense: <i>Adaptive and Reactive Visual Autonomy for Safe Agile Flight in Unstructured Environments</i></li>
+  <li><b>May 2025</b> — Oral presentation at ICRA 2025 (Atlanta, USA) ✈️</li>
+  <li><b>Jan 2025</b> — Paper accepted at ICRA 2025  
+      (<a href="https://arxiv.org/abs/2409.11962">arXiv</a>) 🦾</li>
+  <li><b>Jan 2025</b> — Paper accepted at ICRA 2025  
+      (<a href="https://arxiv.org/abs/2409.17379">arXiv</a>) 🦾</li>
+  <li><b>May 2024</b> — Oral presentation at ICRA 2024 (Yokohama, Japan) ✈️</li>
+  <li><b>Jan 2024</b> — Paper accepted at ICRA 2024  
+      (<a href="https://arxiv.org/abs/2310.04781">arXiv</a>) 🦾</li>
+  <li><b>Nov 2023</b> — Journal paper accepted at Transactions on Robotics  
+      (<a href="https://arxiv.org/abs/2210.12583">arXiv</a>) 🦾</li>
+  <li><b>Oct 2023</b> — Paper featured on  
+      <a href="https://spectrum.ieee.org/video-friday-strandbeest-2">IEEE Spectrum</a> 📺</li>
+  <li><b>Oct 2023</b> — Paper accepted at ICAR 2023 🦾</li>
+  <li><b>Jun 2023</b> — AutoCharge featured on  
+      <a href="https://spectrum.ieee.org/video-friday-spot-levels-up">IEEE Spectrum</a> 📺</li>
+  <li><b>May 2023</b> — Oral presentation at ICRA 2023 (London, UK) ✈️</li>
+  <li><b>May 2023</b> — Recipient of the Dr. Li Annual ECE Publication Award 🏆</li>
+  <li><b>Mar 2023</b> — Journal paper accepted at Annual Reviews in Control  
+      (<a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">link</a>) 🦾</li>
+  <li><b>Jan 2023</b> — AutoCharge and GaPT accepted at ICRA 2023 🦾🦾</li>
+  <li><b>Oct 2022</b> — Virtual presentation at IROS 2022 📺</li>
+  <li><b>Jun 2022</b> — PI-TCN accepted at RAL + IROS 2022 🦾</li>
+  <li><b>May 2022</b> — Oral presentation at ICRA 2022 (Philadelphia, USA) ✈️</li>
+  <li><b>Jan 2022</b> — AutoTune accepted at RAL + ICRA 2022 🦾</li>
+  <li><b>Aug 2021</b> — Joined Agile Robotics and Perception Lab</li>
 </ul>
-</p>
