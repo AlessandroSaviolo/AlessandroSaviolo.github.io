@@ -32,13 +32,13 @@ div.description {
 .news-list {
   list-style: none;
   padding-left: 0;
-  margin-top: 1rem;
+  margin: 1rem 0;
 }
 .news-list li {
   display: grid;
   grid-template-columns: 90px 1fr;
-  gap: 12px;
-  margin-bottom: 0.6rem;
+  gap: 14px;
+  margin-bottom: 0.7rem;
 }
 .news-date {
   font-weight: 600;
@@ -46,7 +46,17 @@ div.description {
   white-space: nowrap;
 }
 .news-text {
-  line-height: 1.4;
+  line-height: 1.45;
+}
+/* Mobile optimization */
+@media (max-width: 600px) {
+  .news-list li {
+    grid-template-columns: 1fr;
+  }
+  .news-date {
+    font-size: 0.9rem;
+    color: #777;
+  }
 }
 </style>
 </head>
@@ -113,28 +123,171 @@ Together, these advances form an autonomy stack that is adaptive, reactive, and 
 </p>
 
 ## Latest News
+<h2>Latest News</h2>
+
 <ul class="news-list">
 
   <li>
     <span class="news-date">Jan 2026</span>
     <span class="news-text">
-      Paper accepted at ICRA 2026 (<a href="#">arXiv</a>) 💪🏼
+      Paper accepted at ICRA 2026 (<a href="https://arxiv.org/pdf/2509.19452">arXiv</a>) 💪🏼
     </span>
   </li>
 
   <li>
     <span class="news-date">Nov 2025</span>
     <span class="news-text">
-      Journal paper accepted at Transactions on Field Robotics (<a href="#">arXiv</a>) 💪🏼
+      Journal paper accepted at Transactions on Field Robotics
+      (<a href="https://arxiv.org/pdf/2506.18689">arXiv</a>) 💪🏼
     </span>
   </li>
 
   <li>
     <span class="news-date">Oct 2025</span>
     <span class="news-text">
-      Joined <a href="#">PlusAI</a>
+      Joined <a href="https://plus.ai/">PlusAI</a>
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Oct 2025</span>
+    <span class="news-text">
+      PhD defense:
+      <em>Adaptive and Reactive Visual Autonomy for Safe Agile Flight in Unstructured Environments</em>
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">May 2025</span>
+    <span class="news-text">
+      Oral presentation at ICRA 2025 (Atlanta, USA) ✈️
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Jan 2025</span>
+    <span class="news-text">
+      Paper accepted at ICRA 2025
+      (<a href="https://arxiv.org/abs/2409.11962">arXiv</a>) 💪🏼
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Jan 2025</span>
+    <span class="news-text">
+      Paper accepted at ICRA 2025
+      (<a href="https://arxiv.org/abs/2409.17379">arXiv</a>) 💪🏼
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">May 2024</span>
+    <span class="news-text">
+      Oral presentation at ICRA 2024 (Yokohama, Japan) ✈️
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Jan 2024</span>
+    <span class="news-text">
+      Paper accepted at ICRA 2024
+      (<a href="https://arxiv.org/abs/2310.04781">arXiv</a>) 💪🏼
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Nov 2023</span>
+    <span class="news-text">
+      Journal paper accepted at Transactions on Robotics
+      (<a href="https://arxiv.org/abs/2210.12583">arXiv</a>) 💪🏼
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Oct 2023</span>
+    <span class="news-text">
+      Paper featured on
+      <a href="https://spectrum.ieee.org/video-friday-strandbeest-2">IEEE Spectrum</a> 📺
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Oct 2023</span>
+    <span class="news-text">
+      Paper accepted at ICAR 2023 💪🏼
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Jun 2023</span>
+    <span class="news-text">
+      AutoCharge featured on
+      <a href="https://spectrum.ieee.org/video-friday-spot-levels-up">IEEE Spectrum</a> 📺
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">May 2023</span>
+    <span class="news-text">
+      Oral presentation at ICRA 2023 (London, UK) ✈️
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">May 2023</span>
+    <span class="news-text">
+      Recipient of the Dr. Li Annual ECE Publication Award 🏆
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Mar 2023</span>
+    <span class="news-text">
+      Journal paper accepted at Annual Reviews in Control
+      (<a href="https://www.sciencedirect.com/science/article/pii/S1367578823000135">link</a>) 💪🏼
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Jan 2023</span>
+    <span class="news-text">
+      AutoCharge and GaPT accepted at ICRA 2023 💪🏼💪🏼
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Oct 2022</span>
+    <span class="news-text">
+      Virtual presentation at IROS 2022 📺
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Jun 2022</span>
+    <span class="news-text">
+      PI-TCN accepted at RAL + IROS 2022 💪🏼
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">May 2022</span>
+    <span class="news-text">
+      Oral presentation at ICRA 2022 (Philadelphia, USA) ✈️
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Jan 2022</span>
+    <span class="news-text">
+      AutoTune accepted at RAL + ICRA 2022 💪🏼
+    </span>
+  </li>
+
+  <li>
+    <span class="news-date">Aug 2021</span>
+    <span class="news-text">
+      Joined Agile Robotics and Perception Lab
     </span>
   </li>
 
 </ul>
-
