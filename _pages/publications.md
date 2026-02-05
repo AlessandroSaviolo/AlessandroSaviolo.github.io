@@ -34,6 +34,7 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <li>
 <div class="title">HUNT: High-Speed UAV Navigation and Tracking in Unstructured Environments via Instantaneous Relative Frames</div>
 <div class="description"><u>A. Saviolo</u>, J. Mao, G. Loianno</div>
+<div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
 <div class="description">
   <a href="https://arxiv.org/pdf/2509.19452">Paper</a>
   <a href="https://youtu.be/YsSflqPPHhs">Video</a>
@@ -49,6 +50,7 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <li>
 <div class="title">NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments</div>
 <div class="description"><u>A. Saviolo</u>, G. Loianno</div>
+<div class="description"><i>IEEE Transactions on Field Robotics (T-FR)</i></div>
 <div class="description">
   <a href="https://arxiv.org/pdf/2506.18689">Paper</a>
   <a href="https://youtu.be/UpbcSKQrHfk">Video</a>
@@ -58,6 +60,7 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <li>
 <div class="title">Reactive Collision Avoidance for Safe Agile Navigation</div>
 <div class="description"><u>A. Saviolo</u>, N. Picello, J. Mao, R. Verma, G. Loianno</div>
+<div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
 <div class="description">
   <a href="https://www.arxiv.org/pdf/2409.11962">Paper</a>
   <a href="https://youtu.be/pUiWym4NsvA">Video</a>
@@ -67,6 +70,7 @@ For the latest list of publications, please visit my <a href="https://scholar.go
 <li>
 <div class="title">Decentralized Nonlinear Model Predictive Control for Safe Collision Avoidance in Quadrotor Teams with Limited Detection Range</div>
 <div class="description">M. Goarin, G. Li, <u>A. Saviolo</u>, G. Loianno</div>
+<div class="description"><i>IEEE International Conference on Robotics and Automation (ICRA)</i></div>
 <div class="description">
   <a href="https://arxiv.org/pdf/2409.17379">Paper</a>
   <a href="https://youtu.be/qTZPzcUJg0s">Video</a>
