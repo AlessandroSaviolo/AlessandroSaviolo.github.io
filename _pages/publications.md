@@ -27,7 +27,7 @@ div.description {
 
 For the latest list of publications, please visit my <a href="https://scholar.google.com/citations?user=HaOQ8AoAAAAJ&hl=en&oi=ao">Google Scholar profile</a>.
 
-## 2025
+## 2026
 
 <ul style="list-style-type:square">
 
@@ -39,6 +39,12 @@ For the latest list of publications, please visit my <a href="https://scholar.go
   <a href="https://youtu.be/YsSflqPPHhs">Video</a>
 </div>
 </li>
+
+</ul>
+
+## 2025
+
+<ul style="list-style-type:square">
 
 <li>
 <div class="title">NOVA: Navigation via Object-Centric Visual Autonomy for High-Speed Target Tracking in Unstructured GPS-Denied Environments</div>
